@@ -1,7 +1,7 @@
 {
     "description": null,
     "extension": null,
-    "plugins": [],
+    "plugins": ["tree"],
     "title": null,
     "variables": {}
 }
