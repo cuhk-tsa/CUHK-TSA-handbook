@@ -12,6 +12,8 @@
 
 * citation 好麻煩怎麼辦
 * VPN? 翻牆?
+* 想問有那張non objection letter就可以做part time intern 了嗎？？還是還要跟學校申請什麼東西嗎? \(https://www.facebook.com/groups/162461677166537/permalink/1254941027918591/\)
 
+* 
 
 
