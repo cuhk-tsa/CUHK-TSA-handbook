@@ -2,7 +2,7 @@
     "extension": null,
     "generator": "site",
     "output": null,
-    "plugins": ["tree","youtube","gitbook-treeview"],
+    "plugins": ["youtube","gitbook-treeview"],
     "pluginsConfig": {
 		"page-treeview": {
 			"copyright": "Copyright &#169; aleen42",
