@@ -2,6 +2,6 @@
     "extension": null,
     "generator": "site",
     "output": null,
-    "plugins": ["tree"],
+    "plugins": ["tree","youtube","gitbook-treeview"],
     "variables": {}
 }
