@@ -4,9 +4,9 @@
     "language" : "zh-tw",
     "output": null,
     "plugins": ["youtube","tree","advanced-emoji","emphasize","splitter","ga"],
-    "variables": {
+    "pluginsConfig": {
         "ga": {
             "token": "UA-100591201-1"
-        }
-    }
+        },
+    "variables": {}
 }
