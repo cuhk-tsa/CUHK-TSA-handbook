@@ -8,8 +8,7 @@
 
 ### 4**.0.2 - Q&A**
 
-* citation 好麻煩怎麼辦
-* VPN? 翻牆?
-
+* 畢業證書要拿去哪邊認證? https://www.facebook.com/groups/162461677166537/permalink/1192906990788662/
+* 
 
 
