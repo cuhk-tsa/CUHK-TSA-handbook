@@ -2,6 +2,6 @@
     "extension": null,
     "generator": "site",
     "output": null,
-    "plugins": ["youtube","tree"],
+    "plugins": ["youtube","tree","advanced-emoji"],
     "variables": {}
 }
