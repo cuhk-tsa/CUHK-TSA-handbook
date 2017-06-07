@@ -7,14 +7,15 @@
 * [\|\_\_ 1.2 - 簽證? 身分證? 兵役?](12-qian-8b493f-shen-fen-8b493f.md)
 * [\|\_\_ 1.3 - 抵港](13-di-gang.md)
 * [\|\_\_ 1.4 - 歡迎來到大學](14-huan-ying-lai-dao-da-xue.md)
-* 2 - 香港生存和生活
+* [2 - 香港生存和生活](2-xiang-gang-sheng-cun-he-sheng-huo.md)
 * [\|\_\_ 2.1 - 簽證完整手冊](21-qian-zheng-wan-zheng-shou-ce.md)
 * [\|\_\_ 2.2 - 身分證](22-shen-fen-zheng.md)
-* \|\_\_ 2.3 - 手機門號與上網
-* \|\_\_ 2.4 - 銀行 & 八達通
-* \|\_\_ 2.5 - 找房?!
-* \|\_\_ 2.6 - 吃喝玩樂
-* 3 - 學校生存與生活
+* [\|\_\_ 2.3 - 手機門號與上網](2-3-shou-ji-men-hao-yu-shang-wang.md)
+* [\|\_\_ 2.4 - 銀行 & 八達通](2-4-yin-xing-and-ba-da-tong.md)
+* [\|\_\_ 2.5 - 生活](25-sheng-huo.md)
+* [\|\_\_ 2.6 - 找房?!](2-5-zhao-623f3f21.md)
+* [\|\_\_ 2.7 - 吃喝玩樂](2-6-chi-he-wan-le.md)
+* [3 - 學校生存與生活](3-xue-xiao-sheng-cun-yu-sheng-huo.md)
 * [\|\_\_ 3.1 - 好了! 帳號 和 Wifi](31-hao-4e8621-zhang-hao-he-wifi.md)
 * [\|\_\_ 3.2 - 選課? 有關課程](32-xuan-8ab23f.md)
 * [\|\_\_ 3.3 - 學校辦事處們](33-xue-xiao-ban-shi-chu-men.md)
@@ -22,7 +23,7 @@
 * [\|\_\_ 3.5 - 暑期課程](3-5-shu-qi-ke-cheng.md)
 * \|\_\_ 3.6 - 我想去交換
 * \|\_\_ 3.7 - 實習經驗談
-* 4 - 畢業前後
+* [4 - 畢業前後](4-bi-ye-qian-hou.md)
 * [\|\_\_ 4.1 - 畢業證件辦理](41-bi-ye-zheng-jian-ban-li.md)
 * \|\_\_ 4.2 - 工作經驗談
 * \|\_\_ 4.3 - 找房攻略 \(進階\)
