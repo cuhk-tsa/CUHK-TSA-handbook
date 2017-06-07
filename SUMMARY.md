@@ -25,7 +25,7 @@
 * [\|\_\_ 3.7 - 實習經驗談](3-7-shi-xi-jing-yan-tan.md)
 * [4 - 畢業前後](4-bi-ye-qian-hou.md)
 * [\|\_\_ 4.1 - 畢業證件辦理](41-bi-ye-zheng-jian-ban-li.md)
-* \|\_\_ 4.2 - 工作經驗談
+* [\|\_\_ 4.2 - 工作經驗談](4-2-gong-zuo-jing-yan-tan.md)
 * [\|\_\_ 4.3 - 找房攻略 \(進階\)](4-3-zhao-fang-gong-lve-jin-968e29.md)
 * [\|\_\_ 4.4 - 研究所經驗談](4-4-yan-jiu-suo-jing-yan-tan.md)
 * [5 - 幕前幕後](5-mu-qian-mu-hou.md)
