@@ -19,10 +19,10 @@
 * [\|\_\_ 3.1 - 好了! 帳號 和 Wifi](31-hao-4e8621-zhang-hao-he-wifi.md)
 * [\|\_\_ 3.2 - 選課? 有關課程](32-xuan-8ab23f.md)
 * [\|\_\_ 3.3 - 學校辦事處們](33-xue-xiao-ban-shi-chu-men.md)
-* \|\_\_ 3.4 - 圖書館
+* [\|\_\_ 3.4 - 圖書館](3-4-tu-shu-guan.md)
 * [\|\_\_ 3.5 - 暑期課程](3-5-shu-qi-ke-cheng.md)
-* \|\_\_ 3.6 - 我想去交換
-* \|\_\_ 3.7 - 實習經驗談
+* [\|\_\_ 3.6 - 我想去交換](3-6-wo-xiang-qu-jiao-huan.md)
+* [\|\_\_ 3.7 - 實習經驗談](3-7-shi-xi-jing-yan-tan.md)
 * [4 - 畢業前後](4-bi-ye-qian-hou.md)
 * [\|\_\_ 4.1 - 畢業證件辦理](41-bi-ye-zheng-jian-ban-li.md)
 * \|\_\_ 4.2 - 工作經驗談
