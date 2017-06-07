@@ -3,6 +3,10 @@
     "generator": "site",
     "language" : "zh-tw",
     "output": null,
-    "plugins": ["youtube","tree","advanced-emoji"],
-    "variables": {}
+    "plugins": ["youtube","tree","advanced-emoji","emphasize","splitter","ga"],
+    "variables": {
+        "ga": {
+            "token": "UA-100591201-1"
+        }
+    }
 }
