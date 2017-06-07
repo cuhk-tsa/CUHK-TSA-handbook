@@ -1,6 +1,7 @@
 {
     "extension": null,
     "generator": "site",
+    "language" : "zh-tw",
     "output": null,
     "plugins": ["youtube","tree","advanced-emoji"],
     "variables": {}
