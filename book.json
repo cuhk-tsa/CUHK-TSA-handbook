@@ -3,7 +3,7 @@
     "generator": "site",
     "language" : "zh-tw",
     "output": null,
-    "plugins": ["youtube","tree","advanced-emoji","emphasize","splitter","ga","gitbook-plugin-betterchinese"],
+    "plugins": ["youtube","tree","advanced-emoji","emphasize","splitter","ga"],
     "pluginsConfig": {
         "ga": {
             "token": "UA-100591201-1"
