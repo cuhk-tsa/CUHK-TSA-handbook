@@ -2,7 +2,7 @@
 
 ### 1.1.1 - 有些事要先做
 
-:point\_right: **請依照順序完成以下動作:**
+** :point\_right: 請依照順序完成以下動作:**
 
 * [ ] 填妥[通訊錄](https://www.facebook.com/groups/162461677166537/permalink/1293845780694782/) \(如果你看不到頁面請先到[台灣學生會粉專](https://www.facebook.com/CUHK.Taiwanese.Student.Association/)找小編! :simple\_smile: \)
 
@@ -12,15 +12,15 @@
 
 ### 1.1.2 - 書院
 
-Chapter 5 
+Chapter 5
 
 introduce the selection of 書院
 
 link to 書院完全手冊 \(hackpad is ok, we will deal with that later\)
 
-### **1.1.2 - 錄取後**
+### **1.1.3 - 文件認證**
 
-依照新的錄取流程，請務必完成下面寫的**驗證手續**以及申請**學生簽證**。
+依照錄取流程，請務必完成下面寫的**驗證手續**以及申請**學生簽證**。
 
 **驗證說明**
 
