@@ -1,30 +1,24 @@
 ## **1.1 - 那些必做的事**
 
-#### **1.1.1 - 有些事要先做**
+### 1.1.1 - 有些事要先做
 
-**請依照順序完成以下動作:**
+:point\_right: **請依照順序完成以下動作:**
 
-* 填妥通訊錄
+* [ ] 填妥[通訊錄](https://www.facebook.com/groups/162461677166537/permalink/1293845780694782/) \(如果你看不到頁面請先到[台灣學生會粉專](https://www.facebook.com/CUHK.Taiwanese.Student.Association/)找小編! :simple\_smile: \)
 
-* 訂閱香港中文大學台灣學生報
+* [ ] 訂閱[香港中文大學台灣學生報](https://www.facebook.com/cuhktsanews/)
 
-* 發篇自介文
+* [ ] 在社團發篇自介文  自介文開頭打 \[新生自介\] , 並附上一張自己的照片~ 如果有發問請再問題最後另外打一行 ‪\#‎ 發問‬
 
-* 繼續閱讀這篇 HackPad \(認真建議，我知道這份hackpad大本OAO\)
+### 1.1.2 - 書院
 
--- **do not** post link to contact google doc yet, just type it
-
--- remind hashtag and image for self intro \(咦咦??\)
-
--- remove 出國前後貼心建議 and 常見Q&A in chapter 1, that is to be moved to 1.4
-
-Chapter 5 書院
+Chapter 5 
 
 introduce the selection of 書院
 
 link to 書院完全手冊 \(hackpad is ok, we will deal with that later\)
 
-#### **1.1.2 - 錄取後**
+### **1.1.2 - 錄取後**
 
 依照新的錄取流程，請務必完成下面寫的**驗證手續**以及申請**學生簽證**。
 
