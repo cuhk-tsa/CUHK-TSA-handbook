@@ -1,8 +1,6 @@
 #### - 常用連結
 
 #### - 目錄
-# Summary
-
 * [0 - 歡迎登入團結力量大](README.md)
     * [\|\_\_ 0.0 - 捷徑與目錄](chapter1.md)
     * [\|\_\_ 1 - 新生專區](1-zhi-hui-cao-zuo-yi-ci-de-xin-sheng-zhuan-qu.md)
