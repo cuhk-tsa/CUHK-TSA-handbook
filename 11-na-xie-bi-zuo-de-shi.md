@@ -4,7 +4,7 @@
 
 ** **![](/assets/arrow-up.png) **請依照順序完成以下動作:**
 
-* 填妥[通訊錄](https://www.facebook.com/groups/162461677166537/permalink/1293845780694782/) ![](/assets/profle.png) \(如果你看不到頁面請先到[台灣學生會粉專](https://www.facebook.com/CUHK.Taiwanese.Student.Association/)找小編! :simple\_smile: \)
+* 填妥[通訊錄](https://www.facebook.com/groups/162461677166537/permalink/1293845780694782/) ![](/assets/profle.png) \(如果你看不到頁面請先到[台灣學生會粉專](https://www.facebook.com/CUHK.Taiwanese.Student.Association/)找小編! :D \)
 * 訂閱[香港中文大學台灣學生報](https://www.facebook.com/cuhktsanews/)
 * 在社團發篇自介文  自介文開頭打 \[新生自介\] , 並附上一張自己的照片~ 如果有發問請再問題最後另外打一行 ‪\#‎ 發問‬
 
