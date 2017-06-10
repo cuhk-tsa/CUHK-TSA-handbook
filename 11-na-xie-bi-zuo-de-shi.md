@@ -2,7 +2,7 @@
 
 ### 1.1.1 - 有些事要先做
 
-** **![](/assets/arrow-up.png) **請依照順序完成以下動作:**
+![](/assets/arrow-up.png) **請依照順序完成以下動作:**
 
 * 填妥[通訊錄](https://www.facebook.com/groups/162461677166537/permalink/1293845780694782/) ![](/assets/profle.png) \(如果你看不到頁面請先到[台灣學生會粉專](https://www.facebook.com/CUHK.Taiwanese.Student.Association/)找小編! :D \)
 * 訂閱[香港中文大學台灣學生報](https://www.facebook.com/cuhktsanews/)
@@ -10,7 +10,12 @@
 
 ### 1.1.2 - 書院
 
-收到中大路取信之後，你最先遇到的就是要來選擇書院。
+收到中大路取信之後，你最先遇到的就是要來選擇書院 \(College\)。  
+書院\(College\) 最簡單的比喻就是哈利波特裡面的學院。
+![](/assets/Harry-Potter-House-Logos-2.jpg)  
+也就是說，書院是一個提供你住宿、生活中心的地方，只可惜在中大，分類帽是一台電腦，而你只能提交自己的志願序。  
+由於書院有許許多多的細節和特色跟各自的故事，我們把所有跟書院有關的東西寫在由台灣學生會提供的\[書院，完全手冊\]。  
+記得，看完書院手冊，要回來這裡喔! XD
 
 ### **1.1.3 - 文件認證**
 
