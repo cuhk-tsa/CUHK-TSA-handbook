@@ -3,7 +3,7 @@
 #### - 目錄
 * [0 - 歡迎登入團結力量大](README.md)
     * [\|\_\_ 0.0 - 捷徑與目錄](chapter1.md)
-    * [\|\_\_ 1 - 新生專區](1-zhi-hui-cao-zuo-yi-ci-de-xin-sheng-zhuan-qu.md)
+* [1 - 新生專區](1-zhi-hui-cao-zuo-yi-ci-de-xin-sheng-zhuan-qu.md)
     * [\|\_\_ 1.1 - 那些必做的事](11-na-xie-bi-zuo-de-shi.md)
     * [\|\_\_ 1.2 - 簽證? 身分證? ](12-qian-8b493f-shen-fen-8b493f.md)
     * [\|\_\_ 1.2.5 - 兵役](1-2-5-bing-yi.md)
