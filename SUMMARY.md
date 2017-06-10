@@ -6,6 +6,7 @@
 * [\|\_\_ 1.1 - 那些必做的事](11-na-xie-bi-zuo-de-shi.md)
 * [\|\_\_ 1.2 - 簽證? 身分證? ](12-qian-8b493f-shen-fen-8b493f.md)
 * [\|\_\_ 1.2.5 - 兵役](1-2-5-bing-yi.md)
+* [\|\_\_ 1.2.5 - 兵役](1-2-5-bing-yi.md)
 * [\|\_\_ 1.3 - 抵港](13-di-gang.md)
 * [\|\_\_ 1.4 - 歡迎來到大學](14-huan-ying-lai-dao-da-xue.md)
 * [2 - 香港生存和生活](2-xiang-gang-sheng-cun-he-sheng-huo.md)
@@ -30,6 +31,5 @@
 * [\|\_\_ 4.3 - 找房攻略 \(進階\)](4-3-zhao-fang-gong-lve-jin-968e29.md)
 * [\|\_\_ 4.4 - 研究所經驗談](4-4-yan-jiu-suo-jing-yan-tan.md)
 * [5 - 幕前幕後](5-mu-qian-mu-hou.md)
-* [\|\_\_ 5.1 - 編輯群](5-1-bian-ji-qun.md)
-* \|\_\_ 1.2.5 - 兵役
+* [\|\_\_ 1.2.5 - 兵役](1-2-5-bing-yi.md)
 
