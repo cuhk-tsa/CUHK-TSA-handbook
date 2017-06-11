@@ -57,5 +57,9 @@
 2. **問: 我是用IB入學的，我該注意什麼?**  
    IB的線上認證手續一樣，IB Final Result 要透過IB官方寄給學校，可以選擇事先免費指定學校，或者之後買result request。中大是Electronic Results所以校方會即時收到。的線上認證手續一樣，IB Final Result 要透過IB官方寄給學校，可以選擇事先免費指定學校，或者之後買result request。中大是Electronic Results所以校方會即時收到。
 
+---
+本條創立於2017.06.07，最後更新於2017.06.11。
+
+
 
 
