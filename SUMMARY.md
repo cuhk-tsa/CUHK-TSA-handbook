@@ -30,5 +30,4 @@
 * [\|\_\_ 4.3 - 找房攻略 \(進階\)](4-3-zhao-fang-gong-lve-jin-968e29.md)
 * [\|\_\_ 4.4 - 研究所經驗談](4-4-yan-jiu-suo-jing-yan-tan.md)
 * [5 - 幕前幕後](5-mu-qian-mu-hou.md)
-* [\|\_\_ 1.2.5 - 兵役](1-2-5-bing-yi.md)
 
