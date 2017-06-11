@@ -47,5 +47,5 @@
 ## 幕前幕後
 
 * [台灣學生會](5-mu-qian-mu-hou.md)
-* 編輯群與生存手冊
+* [編輯群與生存手冊](bian-ji-qun-yu-sheng-cun-shou-ce.md)
 
