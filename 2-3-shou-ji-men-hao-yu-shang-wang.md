@@ -26,16 +26,13 @@
 
 電信公司方案就跟中華瑱信一樣，每個月都會有新的。下面簡介的是常見的公司和空機上台的費用。請以門市為主!
 
-* #### 中國移動（CMHK）: [連結](https://www.hk.chinamobile.com/tc/)
+* #### 中國移動（CMHK）: [官網連結](https://www.hk.chinamobile.com/tc/)
 
 > 小編推薦 可以參考每年推出的學生方案或是組家庭方案
 
-CMHK最大的特色是提供
-最大特色就是有些方案可以帶去中國旅遊，且上網不會受阻、不需VPN也不需翻牆即可悠遊臉書等等。
+CMHK最大的特色是提供可以申請中國手機門號的服務。如果常進出中國，或是實習，CMHK提供一些方案可以帶去中國旅遊，且上網不會受阻、不需VPN也不需翻牆即可悠遊臉書等等。
 
-* CSL
-
-CSL官網請[點我](https://www.hkcsl.com/index.html)
+* #### CSL: [官網連結](https://www.hkcsl.com/tc/Tariff-Plans/)
 
 最common的方案是
 
@@ -54,35 +51,25 @@ CSL是所有電信裡**最昂貴的**，但是也是**收訊最好**的一家，
 
 不建議一開始就簽數據量很高的合約，因為約滿之前可以改簽數據量更高的合約，但是無法改簽數據量低於原先合約的合約。（e.g. 原本選擇2.5GB不夠，可改6GB。但覺得2.5GB用不完，不可以改回1GB。）
 
-* c. 3
+* #### 3: [官網連結](https://www.hkcsl.com/tc/Tariff-Plans/)
 
 3香港 \(3 Mobile\)，一般簡稱 3，其前身為 Orange。
 
-3 Mobile官網請[點我](http://www.three.com.hk/website/appmanager/three/home?_nfpb=true&pageid=000001&_pageLabel=P200170391219567376547&lang=chi)
+* #### 數碼通SmarTone: [官網連結](http://www.smartone.com/tc/mobile_and_price_plans/)
 
-* d. 中國聯通
 
-中國聯通官網請[點我](https://www.google.com.tw/url?sa=t&rct=j&q=&esrc=s&source=web&cd=1&cad=rja&uact=8&ved=0ahUKEwjep9zKq7zUAhULpZQKHRdtBCEQFgglMAA&url=http%3A%2F%2Fhk.chinaunicom.com%2F&usg=AFQjCNE67WAGw4Bu2RDD-N91aoHR-P690w&sig2=mxLCk9p7KDu3CE4DTqjODg)
+* #### 中國聯通: [官網連結](https://www.hkcsl.com/tc/Tariff-Plans/)
 
-* e.1010
+* e.1010: [官網連結](http://www.1010.com.hk/jsp/home/index.jsp?language=tch)
+是（CSL）旗下的行動電話服務品牌，但是品質好像就不怎麼樣
 
-是（CSL）旗下的行動電話服務品牌。
-
-1010官網請[點我](http://www.1010.com.hk/jsp/home/index.jsp?language=tch)
-
-* f. 數碼通SmarTone
-
-數碼通官網請[點我](http://www.smartone.com/tc/mobile_and_price_plans/)
-
-* g. Sun Mobile
-
+* #### Sun Mobile [官網連結](http://www.sunmobile.com.hk/plan02/533.jhtml)
 與1010共用母公司。
 
-Sun Mobile官網請[點我](http://www.sunmobile.com.hk/plan02/533.jhtml)
 
-### 2.3.3 - 三大電信比較
+### 2.3.3 - 四大電信比較
 
-在第2節列舉出的眾多電信之中，我們拿出三個台灣學生最常使用的電信：3香港、CSL、中國移動來作為比較，你可以以價格、通話分鐘數、數據上網速度、收訊...等為考量，決定申辦哪一個電信。
+在上面列舉出的眾多電信之中，我們拿出四個台灣學生最常使用的電信：3香港、CSL、中國移動和Smartone來作為比較，你可以以價格、通話分鐘數、數據上網速度、收訊...等為考量，決定申辦哪一個電信。
 
 #### **價格**
 
@@ -94,13 +81,11 @@ Sun Mobile官網請[點我](http://www.sunmobile.com.hk/plan02/533.jhtml)
 
 #### **收訊**
 
-收訊的比較來自於學長姐的分享經驗，在中大校區中收訊，許多人反應**3電信**在中大各處**收訊較差**，**CSL則在各處收訊良好**，而中國移動則是介在兩者之間。
+收訊的比較來自於學長姐的分享經驗，在中大校區中收訊，許多人反應**3電信**在中大各處**收訊較差**，**CSL則在各處收訊良好**，而中國移動則是介在兩者之間。對於精確的收訊品質可以參考 [Open Signal](https://opensignal.com/networks) 的表現。
 
 #### 通話分鐘數
 
 從通話分鐘數來看，**CSL通話分鐘數沒有限量，**3電信則是基本共2000分鐘，隨著月費增加，通話分鐘數也跟著增加，而中國移動則是只有共2000分鐘。
-
-小編聽說，簡報裡面要有貓的照片比較不無聊。
 
 ---
 
