@@ -51,11 +51,11 @@
 
 ### **1.1.4 - Q&A**
 
-1. **問: 我在台灣也有錄取，可以辦理休學保留學籍嗎?  
+1. **問: 我在台灣也有錄取，可以辦理休學保留學籍嗎?    
    **簡答，不行。你會說，可是我真的很想耶! 長答，請參考那就請看 [這裡](https://cryptobin.co/d8u6c1x8) ，學生會並不鼓勵。\(沒錯，你看到的會是亂碼，密碼輸入於亂碼下方，密碼置於社團右側\[常用連結\]中。\)
 
 2. **問: 我是用IB入學的，我該注意什麼?**  
-   IB的線上認證手續一樣，IB Final Result 要透過IB官方寄給學校，可以選擇事先免費指定學校，或者之後買result request。中大是Electronic Results所以校方會即時收到。的線上認證手續一樣，IB Final Result 要透過IB官方寄給學校，可以選擇事先免費指定學校，或者之後買result request。中大是Electronic Results所以校方會即時收到。
+   IB的線上認證手續一樣，IB Final Result 要透過IB官方寄給學校，可以選擇事先免費指定學校，或者之後買result request。中大是Electronic Results所以校方會即時收到。
 
 ---
 
