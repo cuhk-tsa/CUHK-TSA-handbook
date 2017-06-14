@@ -149,7 +149,7 @@ Student Visa，學生簽證，是允許你入境並居留的證件，學生簽�
    不是。[http://goo.gl/aUE1x](http://goo.gl/aUE1x)
 
 5. **擬在港就讀時間，如果有想要修雙學位（不一定能）怎麼辦？要寫五年麻？**  
-   延畢什麼的都是之後的事，現在發給你的事多少就是多少，之後填預計畢業日期也一樣，一直到你正式申請延畢才可以改
+   延畢什麼的都是之後的事，現在發給你的是多少就是多少，之後填預計畢業日期也一樣，一直到你正式申請延畢才可以改
 
 6. **存款金額要寫多少呢？**  
    說明寫得很清楚 a minimum balance of HK$50,000 \(or equivalent in other currencies\) on top of the tuition and accommodation fee amount. 既然上面的單位用acedemic year 計算，請比照辦理。絕對不是五萬
