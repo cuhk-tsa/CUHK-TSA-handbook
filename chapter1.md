@@ -21,8 +21,8 @@
   * [\|\_\_ 2.6 - 找房?!](2-5-zhao-623f3f21.md)
   * [\|\_\_ 2.7 - 吃喝玩樂](2-6-chi-he-wan-le.md)
 * [3 - 學校生存與生活](3-xue-xiao-sheng-cun-yu-sheng-huo.md)
+  * [\|\_\_ 3.1 - 好了! 帳號 和 Wifi](https://www.gitbook.com/book/cuhktsa/cuhk-tsa/edit#)
   * [\|\_\_ 3.2 - 選課? 有關課程](32-xuan-8ab23f.md)
-  * [\|\_\_ 3.1 - 好了! 帳號 和 Wifi](31-hao-4e8621-zhang-hao-he-wifi.md)
   * [\|\_\_ 3.3 - 學校辦事處們](33-xue-xiao-ban-shi-chu-men.md)
   * [\|\_\_ 3.4 - 圖書館](3-4-tu-shu-guan.md)
   * [\|\_\_ 3.5 - 暑期課程](3-5-shu-qi-ke-cheng.md)
@@ -33,8 +33,9 @@
   * [\|\_\_ 4.2 - 工作經驗談](4-2-gong-zuo-jing-yan-tan.md)
   * [\|\_\_ 4.3 - 找房攻略 \(進階\)](4-3-zhao-fang-gong-lve-jin-968e29.md)
   * [\|\_\_ 4.4 - 研究所經驗談](4-4-yan-jiu-suo-jing-yan-tan.md)
-* [5 - 幕前幕後](5-mu-qian-mu-hou.md)
-  * [\|\_\_ 5.1 - 編輯群](5-1-bian-ji-qun.md)
+* 5 - 幕前幕後
+  * [台灣學生會](5-mu-qian-mu-hou.md)
+  * [編輯群與生存手冊](bian-ji-qun-yu-sheng-cun-shou-ce.md)
 
 
 
