@@ -52,6 +52,7 @@ Chapter 6
 * TOEFL CBT 243 \(含\)以上
 
 * TOEFL IBT 96 \(含\)以上
+
 * IELTS 總分7.5 \(含\)以上，各科成績 7 \(含\)以上
 * 英文系學生
 
@@ -62,6 +63,7 @@ Chapter 6
 * TOEFL CBT 213 \(含\)以上
 
 * TOEFL IBT 79 \(含\)以上
+
 * IELTS 總分6.5 \(含\)以上，各科成績 7 \(含\)以上
 
 如果要申請豁免/替換，請依照科系於指定日期內繳交：[豁免申請表](https://rgsntl.rgs.cuhk.edu.hk/rws_prd_life/re_menu/upload/menu/original/20120814092607725.pdf) / [替換申請表](https://rgsntl.rgs.cuhk.edu.hk/rws_prd_life/re_menu/upload/menu/original/20120814103752429.pdf)、成績單 / 證書 正本or影本
@@ -361,5 +363,7 @@ Veriguide \(維誠\) 是中大的學術誠信檢測系統，學術誠信的定�
 
 \*\*可以另外在Veriguide申請一個非學校帳號，先繳交作業到那裡，可以幫你審查有多少的比例有抄襲嫌疑，還會幫你比對網路上哪裡的資料和你的作業太相近。但小心不要因此讓自己在正式繳交作業時因為與原本上傳的測試版衝突而造成抄襲99%的窘況。（但是曾有老師說過他們看見的Database跟我們看得見的Database是不一樣的，千萬不要心存僥倖）
 
+### 3.2.4 - 停課
 
+中大除了假日及特別活動外，停課源由多為颱風來襲，只要[香港天文台](http://www.hko.gov.hk/contentc.htm)公告**八號風球或黑色暴雨警戒**，即會在對應的時間範圍內即停課，港鐵亦會暫停營運。
 
