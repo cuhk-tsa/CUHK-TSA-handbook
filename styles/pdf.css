@@ -20,20 +20,6 @@
     margin-top: 0 !important;
 }
 
-/* SPECIAL ELEMENTS */
-
-/* page break always after element on pdf/print definition */
-
-div.pagebreak {
-    page-break-after: always;
-}
-
-/* no page break inside element on pdf/print definition */
-
-div.nopb {
-    page-break-inside: avoid !important;
-    margin: 4px 0 4px 0;
-}
 
 /* note blocks */
 
