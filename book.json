@@ -11,7 +11,7 @@
     },
     "variables": {},
     "pdf": {
-        "fontFamily": ["Microsoft JhengHei UI", "Microsoft JhengHei", "PingFang TC", "Lantinghei TC", "Noto Sans CJK TC", "Microsoft YaHei UI", "Microsoft Yahei", "PingFang SC", "Lantinghei SC", "Hiragino Sans GB", "WenQuanYi Micro Hei", "WenQuanYi Zen Hei", "Noto Sans CJK SC", "Helvetica Neue", Helvetica, Arial, sans-serif],
+        "fontFamily": "Microsoft JhengHei UI",
         "margin": {
             "right": 62,
             "left": 62,
