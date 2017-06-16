@@ -101,11 +101,16 @@ figcaption {
 /* set summary page to right side of the paper */
 
 .page .toc h1 {
+    display: none;
     page-break-before: right;
 }
 
 .page .section.toc  {
     page-break-inside: always;
+}
+
+.page .toc{
+    display: none;
 }
 
 /* table headers */
@@ -193,23 +198,6 @@ div#appendix2\.md table,
 div#appendix2\.md table thead,
 div#appendix2\.md table tbody {
     page-break-inside: auto;
-}
-
-/* backcover adjust */
-
-div#backcover\.md {
-    width: 89%;
-    margin: 0 auto;
-}
-
-div#backcover\.md div.author {
-    float:right;
-    width: 27%;
-    text-align: center;
-}
-
-div#backcover\.md > :first-child {
-    page-break-before: right;
 }
 
 /* keywords */
