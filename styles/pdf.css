@@ -537,7 +537,6 @@ div.nopb {
 .pdf-header {
     margin-top: 10px;
     color: #aaa;
-    display: none;
 }
 .pdf-footer .sub {
     padding-top: 8px;
@@ -546,7 +545,6 @@ div.nopb {
 .pdf-header .sub {
     padding-top: 2px;
     font-size: 70%;
-    display: none;
 }
 .pdf-footer {
     padding-top: 10px;
