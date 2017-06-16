@@ -41,7 +41,7 @@ div.note {
     background: #FCF8E3 none repeat scroll 0% 0%;
     color: #8A6D3B;
     padding: 15px;
-    margin-bottom: 10px;
+    margin-bottom: 5px;
     border-bottom: 5px solid #DDD;
     border-color: #FAEBCC;
     page-break-inside: avoid;
@@ -86,7 +86,7 @@ figcaption {
 
 .page .section ol,
 .page .section ul {
-    margin-bottom: 10px;
+    margin-bottom: 5px;
 }
 
 /* blockquotes */
@@ -535,7 +535,7 @@ div.nopb {
 
 .pdf-footer,
 .pdf-header {
-    margin-top: 20px;
+    margin-top: 10px;
     color: #aaa;
 }
 .pdf-footer .sub {
@@ -569,8 +569,4 @@ div.nopb {
     text-decoration: none;
     color: #aaa;
     cursor: text;
-}
-
-#class-3 {
-    margin-top: 220px;
 }
