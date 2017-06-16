@@ -102,7 +102,7 @@ figcaption {
 /* table headers */
 
 div#README\.md table {
-    margin-top: 30px;
+    margin-top: 5px;
     font-size: 95%;
 }
 
@@ -128,7 +128,7 @@ div#part2\/index\.md {
 
 div#part1\/index\.md img,
 div#part2\/index\.md img {
-    margin-top: 50px;
+    margin-top: 5px;
     max-width: 99%;
 }
 
