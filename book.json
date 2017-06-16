@@ -20,5 +20,9 @@
             "top": 36,
             "bottom": 36
         }
-    }
+    },
+    "styles": {
+        "website": "styles/website.css",
+        "pdf": "styles/pdf.css",
+    },
 }
