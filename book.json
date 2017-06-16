@@ -11,7 +11,7 @@
     },
     "variables": {},
     "pdf": {
-        "fontFamily": "Microsoft JhengHei UI",
+        "fontFamily": ["Microsoft JhengHei UI"],
         "margin": {
             "right": 62,
             "left": 62,
