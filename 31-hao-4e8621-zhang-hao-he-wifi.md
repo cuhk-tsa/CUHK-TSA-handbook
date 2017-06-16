@@ -78,6 +78,9 @@
 學校免費提供\(昂貴的\)防毒軟體卡巴斯基 \(Kaspersky\)  
 安裝方式請參考[怎麼安裝](https://www.cuhk.edu.hk/itsc/chinese/security/antivirus/)。
 
+### 宿舍直接列印文件
+當然，不會有人送到你家門口，但這可以省去把檔案存到USB然後開圖書館電腦再列印的時間。請再電腦安裝[無線列印設定](http://www.lib.cuhk.edu.hk/tc/use/facilities/print-copy-scan/wifi)就可以在列印時選擇圖書館的影印機了!
+
 ### 3.1.4 - 備註
 
 ITSC 等服務皆有[系統維護時間](http://www.cuhk.edu.hk/itsc/sys_ava/maint.html)，請注意特定維護時間，避免作業來不及上傳。  
