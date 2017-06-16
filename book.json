@@ -17,9 +17,10 @@
         "margin": {
             "right": 62,
             "left": 62,
-            "top": 36,
-            "bottom": 36
-        }
+            "top": 42,
+            "bottom": 42
+        },
+        "paperSize": "a4"
     },
     "styles": {
         "website": "styles/website.css",
