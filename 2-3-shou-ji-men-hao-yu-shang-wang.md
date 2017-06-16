@@ -60,7 +60,7 @@ CSL是所有電信裡**最昂貴的**，但是也是**收訊最好**的一家，
 
 * #### 中國聯通: [官網連結](https://www.hkcsl.com/tc/Tariff-Plans/)
 
-* e.1010: [官網連結](http://www.1010.com.hk/jsp/home/index.jsp?language=tch)
+* ####1010: [官網連結](http://www.1010.com.hk/jsp/home/index.jsp?language=tch)
 是（CSL）旗下的行動電話服務品牌，但是品質好像就不怎麼樣
 
 * #### Sun Mobile [官網連結](http://www.sunmobile.com.hk/plan02/533.jhtml)
@@ -74,9 +74,7 @@ CSL是所有電信裡**最昂貴的**，但是也是**收訊最好**的一家，
 #### **價格**
 
 請參考上方官網連結內「服務計畫」、「月費計畫」等內容。
-
 價格因上網速度而異，各家電信提供的通話分鐘數亦不同，可根據個人需要衡量。
-
 香港各電信亦有提供「共享」方案，可供數人分享數據量，價格通常會比較優惠。
 
 #### **收訊**
