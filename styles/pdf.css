@@ -8,10 +8,8 @@
 /* the following style is modified from creativepowerofthefloweroflife */
 /* url: https://github.com/GitbookIO/theme-default/blob/master/_layouts/ebook/page.html */
 
-h2{
+h1, h2{
   color: #082f70;
-  padding: 0.2em;
-  margin: 0.5em
 }
 
 /* note blocks */

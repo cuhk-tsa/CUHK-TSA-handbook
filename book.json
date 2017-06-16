@@ -11,13 +11,13 @@
     },
     "variables": {},
     "pdf": {
-        "fontSize": 13,
+        "fontSize": 12.5,
         "footerTemplate": null,
         "headerTemplate": null,
         "margin": {
             "right": 35,
             "left": 45,
-            "top": 35,
+            "top": 30,
             "bottom": 40
         },
         "paperSize": "a4"
