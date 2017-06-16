@@ -1,6 +1,9 @@
 ##常用連結
 ---
 [書院完全手冊](https://cuhktsa.gitbooks.io/cuhk-tsa-college/content/)
+[台灣學生會粉專](https://www.facebook.com/CUHK.Taiwanese.Student.Association)
+[團結力量大社團](https://www.facebook.com/groups/162461677166537/)(需登入)
+[學生會二手社團](https://www.facebook.com/groups/217939265029684/)(需登入)
 
 ##目錄
 ---
