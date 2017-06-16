@@ -28,6 +28,10 @@
 
 * 想問有那張non objection letter就可以做part time intern 了嗎？？還是還要跟學校申請什麼東西嗎? \([https://www.facebook.com/groups/162461677166537/permalink/1254941027918591/\](https://www.facebook.com/groups/162461677166537/permalink/1254941027918591/\)\)
 
+> 百萬大到會是一個終生難忘的地方
+
+![](/assets/hk2.jpg)
+
 ---
 
 本條創立於2017.06.07，最後更新於2017.06.16。
