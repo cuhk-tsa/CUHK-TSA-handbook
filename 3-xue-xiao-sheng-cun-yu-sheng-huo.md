@@ -4,11 +4,12 @@
 
 ### 3.0.1 - 常用連結 \(申請東西的連結是吧\)
 
-* 交換流程、文檔   →   3.6 
-* 免修 / 超修   →   3.2
-* Circle 實習 / 交換 分享   →   3.7 / 3.6 
+* 交換流程、文檔   →   [@3.6](/3-6-wo-xiang-qu-jiao-huan.md) 
+* 免修 / 超修   →   [@3.2](/32-xuan-8ab23f.md)
+* Circle 實習 / 交換 分享   →   [@3.7](/3-7-shi-xi-jing-yan-tan.md) / [@3.6 ](/3-6-wo-xiang-qu-jiao-huan.md)
 
 ### **3.0.2 - 各章節內容**
+
 * [3.1 好了!帳號 和Wifi](/31-hao-4e8621-zhang-hao-he-wifi.md) 解釋校內的各種帳號和福利
 * [3.2 選課?有關課程](/32-xuan-8ab23f.md) 解釋選課方法及有關課程的資訊: 免修、通識、體育、等。
 * [3.3 學校辦事處們](/33-xue-xiao-ban-shi-chu-men.md) 介紹學校處室與功能。
@@ -19,10 +20,15 @@
 
 ### 3**.0.2 - 常見Q&A**
 
-* citation 好麻煩怎麼辦
+* **Citation 好麻煩怎麼辦?**
+  圖書館提供超好用citation軟體，通通列舉[在這裡](http://www.lib.cuhk.edu.hk/en/research/citation/tool/refworks)!
+
 * VPN? 翻牆?
-* 想問有那張non objection letter就可以做part time intern 了嗎？？還是還要跟學校申請什麼東西嗎? \(https://www.facebook.com/groups/162461677166537/permalink/1254941027918591/\)
+  沒錯，學校提供的VPN服務可以[由此設定](https://www.cuhk.edu.hk/itsc/chinese/network/vpn/)。
 
-* 
+* 想問有那張non objection letter就可以做part time intern 了嗎？？還是還要跟學校申請什麼東西嗎? \([https://www.facebook.com/groups/162461677166537/permalink/1254941027918591/\](https://www.facebook.com/groups/162461677166537/permalink/1254941027918591/\)\)
 
+---
+
+本條創立於2017.06.07，最後更新於2017.06.16。
 
