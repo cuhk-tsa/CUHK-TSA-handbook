@@ -15,10 +15,10 @@
         "footerTemplate": null,
         "headerTemplate": null,
         "margin": {
-            "right": 53,
-            "left": 53,
-            "top": 53,
-            "bottom": 53
+            "right": 40,
+            "left": 50,
+            "top": 50,
+            "bottom": 55
         },
         "paperSize": "a4"
     },
