@@ -11,7 +11,7 @@
     },
     "variables": {},
     "pdf": {
-        "fontSize": 14,
+        "fontSize": 13,
         "footerTemplate": null,
         "headerTemplate": null,
         "margin": {
