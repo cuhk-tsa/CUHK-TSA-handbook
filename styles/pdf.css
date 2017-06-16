@@ -7,19 +7,7 @@
 /* GENERAL ELEMENTS */
 /* the following style is modified from creativepowerofthefloweroflife */
 /* url: https://github.com/GitbookIO/theme-default/blob/master/_layouts/ebook/page.html */
-/* clear both */
 
-.clear {
-    clear: both;
-}
-
-.section > :last-child {
-    margin-bottom: 0 !important;
-}
-
-.section > :first-child {
-    margin-top: 0 !important;
-}
 
 
 /* note blocks */
