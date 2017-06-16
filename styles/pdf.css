@@ -65,7 +65,7 @@ figcaption {
 }
 
 .page .section p img {
-    margin-top: 10px;
+    margin-top: 7px;
 }
 
 /* ul, ol list margin fix */
@@ -343,164 +343,6 @@ div#newitems\.md h3 {
     display: none;
 }
 
-/* IMAGE STYLES */
-
-/* hexagon, hexagram and six-spoked wheel */
-
-figure#fig4\.3\.10,
-figure#fig4\.3\.11,
-figure#fig4\.3\.12 {
-    float: left;
-    width: 33%;
-}
-
-figure#fig4\.3\.10 img,
-figure#fig4\.3\.11 img,
-figure#fig4\.3\.12 img {
-    width: 240px;
-}
-
-/* hittite suns */
-
-figure#fig5\.3\.1,
-figure#fig5\.3\.2 {
-    float: left;
-    width: 48%;
-    margin: 0 5px;
-}
-
-/* hittite sun 1 and 2 models */
-
-figure#fig5\.3\.3,
-figure#fig5\.3\.6 {
-    margin: 0 5px;
-}
-
-figure#fig5\.3\.4,
-figure#fig5\.3\.5,
-figure#fig5\.3\.7,
-figure#fig5\.3\.8 {
-    float: left;
-    width: 48%;
-    margin: 0 5px;
-}
-
-figure#fig5\.3\.4 img,
-figure#fig5\.3\.5 img,
-figure#fig5\.3\.7 img,
-figure#fig5\.3\.8 img {
-    width: 185px;
-}
-
-/* pomegranates */
-
-figure#fig5\.5\.1,
-figure#fig5\.5\.2 {
-    float: left;
-    width: 48%;
-    margin: 0 5px;
-}
-
-/* coin */
-
-figure#fig5\.5\.2 img {
-    width: 250px;
-    margin: 60px;
-}
-
-/* lilies */
-
-figure#fig5\.5\.4,
-figure#fig5\.5\.5 {
-    float: left;
-    width: 48%;
-    margin: 0 5px;
-}
-
-/* distaff blades */
-
-figure#fig6\.2,
-figure#fig6\.3,
-figure#fig6\.4 {
-    float: left;
-    width: 31%;
-    margin: 0 5px;
-}
-
-/* classification images */
-
-/* class 0 */
-figure#fig9\.2,
-figure#fig9\.3 {
-    float:left;
-    width: 47%;
-    margin: 0 5px;
-}
-figure#fig9\.3 img {width: 186px;}
-figure#fig9\.2 img {width: 330px;}
-
-/* class 1 */
-figure#fig9\.4,
-figure#fig9\.5 {
-    float:left;
-    width: 47%;
-    margin: 0 5px;
-}
-figure#fig9\.5 img {width: 170px;}
-figure#fig9\.4 img {width: 360px;}
-
-/* class 2 */
-figure#fig9\.6,
-figure#fig9\.7 {
-    float:left;
-    width: 47%;
-    margin: 0 5px;
-}
-figure#fig9\.7 img {width: 184px;}
-figure#fig9\.6 img {width: 330px;}
-
-/* class 3 */
-figure#fig9\.8,
-figure#fig9\.9 {
-    float:left;
-    width: 47%;
-    margin: 0 5px;
-}
-figure#fig9\.9 img {width: 183px;}
-figure#fig9\.8 img {width: 335px;}
-
-/* bar codes */
-
-figure#fig15\.1,
-figure#fig15\.2,
-figure#fig15\.3 {
-    float:left;
-    width: 30%;
-    margin: 0 5px;
-}
-
-figure#fig15\.1 img,
-figure#fig15\.2 img,
-figure#fig15\.3 img {
-    width: 75%;
-}
-
-figure#fig15\.1:after {
-    content: "PDF";
-}
-figure#fig15\.2:after {
-    content: "EPUB";
-}
-figure#fig15\.3:after {
-    content: "MOBI";
-}
-
-figure#fig15\.1 figcaption,
-figure#fig15\.2 figcaption,
-figure#fig15\.3 figcaption {
-    display: none;
-}
-
 /* page break always after element on pdf/print definition */
 
 div.page-break {
@@ -521,7 +363,7 @@ div.nopb {
 
 .pdf-footer,
 .pdf-header {
-    margin-top: 10px;
+    margin-top: 8px;
     color: #aaa;
 }
 .pdf-footer .sub {
@@ -533,14 +375,14 @@ div.nopb {
     font-size: 70%;
 }
 .pdf-footer {
-    padding-top: 10px;
+    padding-top: 8px;
     border-top: 1px solid #eee;
 }
 .pdf-footer .footer-pages-count {
     float: right;
 }
 .pdf-header {
-    padding-bottom: 15px;
+    padding-bottom: 5px;
     border-bottom: 1px solid #eee;
 }
 .pdf-header .header-pages-count {
