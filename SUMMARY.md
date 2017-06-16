@@ -20,7 +20,7 @@
 * [\|\_\_ 2.1 - 簽證完整手冊](21-qian-zheng-wan-zheng-shou-ce.md)
 * [\|\_\_ 2.2 - 身分證](22-shen-fen-zheng.md)
 * [\|\_\_ 2.3 - 手機門號與上網](2-3-shou-ji-men-hao-yu-shang-wang.md)
-* [\|\_\_ 2.4 - 銀行](2-4-yin-xing-and-ba-da-tong.md)
+* [\|\_\_ 2.4 - 銀行與學費](2-4-yin-xing-and-ba-da-tong.md)
 * [\|\_\_ 2.5 - 八達通](25.md)
 * [\|\_\_ 2.6 - 生活](25-sheng-huo.md)
 * [\|\_\_ 2.7 - 找房?!](2-5-zhao-623f3f21.md)
