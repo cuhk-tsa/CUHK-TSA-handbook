@@ -21,8 +21,7 @@
 * [2017.02.16](https://www.facebook.com/events/1262757517138256) \[Circle分享會: 實習\] [盛暐庭 - 北京國圖實習](https://www.youtube.com/watch?v=rd7-WCxJ4bE)。
 * [2017.02.16](https://www.facebook.com/events/1262757517138256) \[Circle分享會: 實習\] [楊淳評 x 張馥雅 - 在微軟學到的事](https://www.youtube.com/watch?v=ZdnFP_Z9RPw)。
 * [2017.02.09](https://www.facebook.com/events/1829012177358620) \[Circle分享會: 學業\] 陳姿穎 - Case Com。
-* [2017.01.19](https://www.facebook.com/events/1721888911405037) \[Circle分享會: 實習\] \[何皓原 - 我在新加坡文華東方酒店的半年。
-  \]\([https://www.youtube.com/watch?v=MReOcFQJLnU](https://www.youtube.com/watch?v=MReOcFQJLnU)\)
+* [2017.01.19](https://www.facebook.com/events/1721888911405037) \[Circle分享會: 實習\] [何皓原 - 我在新加坡文華東方酒店的半年](https://www.youtube.com/watch?v=MReOcFQJLnU)。
 * [2017.01.19](https://www.facebook.com/events/1721888911405037) \[Circle分享會: 交換\] [金澤楷 - 在歐洲交換時的周遊列國。](https://www.youtube.com/watch?v=l3Uo-I34WFc)
 
 ---
