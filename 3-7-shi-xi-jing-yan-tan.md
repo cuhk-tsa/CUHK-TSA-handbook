@@ -13,7 +13,7 @@
 > 小分享發源自 2016年春天 的圈圈 \(Circle\) 工作坊，有些影片可能有缺失，請大家還是多多包涵喔 :\) 。  
 > 這邊我們會依照年分排序~ 點選日期會帶到活動臉書頁面!
 
-* [2017.04.06](https://www.facebook.com/events/251944455268489) \[Circle分享會: 實習\] [王劭瑄 - Life in Audit Department   \(Deloitte\)](https://www.youtube.com/watch?v=FxV6oUdk8tk)。
+* [2017.04.06](https://www.facebook.com/events/251944455268489) \[Circle分享會: 實習\] [王劭瑄 : Life in Audit Department   \(Deloitte\)](https://www.youtube.com/watch?v=FxV6oUdk8tk)。
 * [2017.03.30](https://www.facebook.com/events/1899410143636822) \[Circle分享會: 生活\] 鄭棣中 - 來聊聊里程吧!
 * [2017.03.23](https://www.facebook.com/events/1308140982599506) \[Circle分享會: 嘉賓\] [盧怡君教授 - 尋找職涯:“Do what you love; Love what you do.”  ](https://www.youtube.com/watch?v=TE20KaG8X2A)。
 * [2017.03.02](https://www.facebook.com/events/1735326883444571) \[Circle分享會: 實習\] [張宸維 - 投行前台 Global Markets。](https://www.youtube.com/watch?v=zwYG9QlUDtc)
