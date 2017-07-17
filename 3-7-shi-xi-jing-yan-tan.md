@@ -16,6 +16,8 @@
 * [2017.04.06](https://www.facebook.com/events/251944455268489) \[Circle分享會: 實習\] [王劭瑄 - Life in Audit Department \(Deloitte\)](https://www.youtube.com/watch?v=FxV6oUdk8tk)。
 * [2017.03.30](https://www.facebook.com/events/1899410143636822) \[Circle分享會: 生活\] 鄭棣中 - 來聊聊里程吧!
 * [2017.03.23](https://www.facebook.com/events/1308140982599506) \[Circle分享會: 嘉賓\] [盧怡君教授 - 尋找職涯 : “Do what you love; Love what you do.”](https://www.youtube.com/watch?v=TE20KaG8X2A)。
+* [2017.03.09](https://www.facebook.com/events/1820741004845790/) \[Circle分享會: 實習\] 許耀元 - Institutional investors。
+* [2017.03.09](https://www.facebook.com/events/1820741004845790/) \[Circle分享會: 實習\] 廖睿中 - 一個人的旅行。
 * [2017.03.02](https://www.facebook.com/events/1735326883444571) \[Circle分享會: 實習\] [張宸維 - 投行前台 Global Markets。](https://www.youtube.com/watch?v=zwYG9QlUDtc)
 * [2017.02.23](https://www.facebook.com/events/148169172364989) \[Circle分享會: 生活\] [劉修彣 - 香港找房攻略](https://www.youtube.com/watch?v=pxOw2jxXpx8)。 &gt;&gt; [Slides](https://docs.google.com/presentation/d/1W3TPfq7PLh0wwIPCiGU3V0Qf5pF04d-Cfc5sHu7EqDE) &lt;&lt;
 * [2017.02.16](https://www.facebook.com/events/1262757517138256) \[Circle分享會: 實習\] [盛暐庭 - 北京國圖實習](https://www.youtube.com/watch?v=rd7-WCxJ4bE)。
