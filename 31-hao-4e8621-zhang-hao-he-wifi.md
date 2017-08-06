@@ -16,7 +16,7 @@
 
   * 帳號: s+學生證號碼。
   * 密碼: 有標點符號那個
-  * 適用服務: CUSIS (介紹在這篇最下面 @3.1.5)、BlackBoard、CUHK 無線網路、CUHKa 無線網路、ResNet、保健室預約、VPN、@link 信箱、等.......。
+  * 適用服務: CUSIS \(介紹在這篇最下面 @3.1.5\)、BlackBoard、CUHK 無線網路、CUHKa 無線網路、ResNet、保健室預約、VPN、@link 信箱、等.......。
   * 更改密碼: 登入CUSIS即可更改密碼
   * 忘記密碼: 可以[線上申請重設](https://opq.itsc.cuhk.edu.hk/que/cindex.jsp)  ，也可攜帶學生證並親自前往碧秋樓109A室或伍何曼原樓六樓學習共享空間。
 
@@ -43,7 +43,7 @@
 * 宿舍網路 \(Resnet\) : 插入網路線 \(自備!\) 請使用CWEM 登入，會定時登出
 * **不會定時**登出的Wifi : 請先使用 CWEM 帳號[申請](https://wifipartners.itsc.cuhk.edu.hk/)。可以連線:
   * Universities via xxx
-  * University WIFI
+
   * CSL
   * Y5ZONE
   * Eduroam: 世界各重點大專院校都有
@@ -79,6 +79,7 @@
 安裝方式請參考[怎麼安裝](https://www.cuhk.edu.hk/itsc/chinese/security/antivirus/)。
 
 ### 宿舍直接列印文件
+
 當然，不會有人送到你家門口，但這可以省去把檔案存到USB然後開圖書館電腦再列印的時間。請再電腦安裝[無線列印設定](http://www.lib.cuhk.edu.hk/tc/use/facilities/print-copy-scan/wifi)就可以在列印時選擇圖書館的影印機了!
 
 ### 3.1.4 - 備註
@@ -95,11 +96,11 @@ ITSC 等服務皆有[系統維護時間](http://www.cuhk.edu.hk/itsc/sys_ava/mai
 ![](http://i.imgur.com/ARHLu0w.png)
 
 1. Home
-  * News and Events: 基本上跟每周五收到的 "Digest of CU Mass Mails for Undergraduate Students" 是一樣的。
-  * **CUSIS and MyStudy: 這是最主要你會用的**
-  * Library: 和直接到圖書館網頁一樣，而且有部分服務需要另外輸入一次帳號密碼，建議不需要繞一圈直接使用[圖書館官網](http://www.lib.cuhk.edu.hk/)。
-  * Webmail: 八月後應該會自動連結office 365 的頁面。
-  * Useful Links: You must be kidding me.
+   * News and Events: 基本上跟每周五收到的 "Digest of CU Mass Mails for Undergraduate Students" 是一樣的。
+   * **CUSIS and MyStudy: 這是最主要你會用的**
+   * Library: 和直接到圖書館網頁一樣，而且有部分服務需要另外輸入一次帳號密碼，建議不需要繞一圈直接使用[圖書館官網](http://www.lib.cuhk.edu.hk/)。
+   * Webmail: 八月後應該會自動連結office 365 的頁面。
+   * Useful Links: You must be kidding me.
 2. 個性化選項: 可以調整下面想看到的內容
 
 #### MyStudy 功能介紹
@@ -113,7 +114,7 @@ ITSC 等服務皆有[系統維護時間](http://www.cuhk.edu.hk/itsc/sys_ava/mai
 
 **個人資料\(Personal Information\)** : 個人資料填寫，學校聯繫你的方式，記得要定期更新才不會收不到重要信件。
 
-**學習狀態 \(My Academics\)** : **公告書院** 以及學術狀態的地方。 上方的Tab: Search/Plan/Enroll 會分別帶你到左側目錄的 Class Search/My Planner/ Course Enrollment。
+**學習狀態 \(My Academics\)** : **公告書院** 以及學術狀態的地方。 上方的Tab: Search/Plan/Enroll 會分別帶你到左側目錄的 Class Search/My Planner/ Course Enrollment。  
 也可以查看 Academic Requirement 以便了解現在必修和選修學分進度。
 
 **選課 \(My Planner 或是 Course Enrollment\)** : 透過My Planner 或是 Course Enrollment 都可以事先安排課程，並於Search 功能底下搜尋想選擇的課程。課程列表和課程搜尋可以同時運用**Teaching Timetable by Subj/Dpt**或**Teaching Timetable by Prog**
@@ -125,3 +126,4 @@ ITSC 等服務皆有[系統維護時間](http://www.cuhk.edu.hk/itsc/sys_ava/mai
 ---
 
 條目創立於2017.06.07，最後更新於2017.06.17。
+
