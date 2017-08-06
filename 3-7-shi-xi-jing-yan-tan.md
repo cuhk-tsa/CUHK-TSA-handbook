@@ -8,7 +8,7 @@
 
 > 文字經驗談主要想彙整台灣學生報裡面的文字敘述部分。
 
-可以請各位先上 [香港中文大學臺灣學生報](https://www.facebook.com/cuhktsanews) -&gt; 收尋: 實習
+可以請各位先上 [香港中文大學臺灣學生報](https://www.facebook.com/cuhktsanews) -&gt; 搜尋: 實習
 
 ### 3.7.2 小分享
 
