@@ -42,9 +42,11 @@
 * CUHKa : 請用 CWEM 登入，會定時登出 \(他速度大於等於CUHK\)
 * 宿舍網路 \(Resnet\) : 插入網路線 \(自備!\) 請使用CWEM 登入，會定時登出
 * **不會定時**登出的Wifi : 請先使用 CWEM 帳號[申請](https://wifipartners.itsc.cuhk.edu.hk/)。可以連線:
+
   * Universities via xxx
 
   * CSL
+
   * Y5ZONE
   * Eduroam: 世界各重點大專院校都有
 
@@ -63,7 +65,7 @@
 * 好好愛惜這個帳號，因為會讓你填寫e-mail時看起來很專業!
 * @link 是 Office 365 底下的功能，也是從今年開始中大唯一提供的 e-mail 服務。所有學生的 e-mail 初始設定將會是: sid@link.cuhk.edu.hk. 而所有學校的信件一律寄送到此信箱。
 * **強烈建議可以將信箱設定自動轉寄到自己平常使用的信箱**，設定方法請[參考這裡](https://www.cuhk.edu.hk/itsc/o365/doc/general-functions.pdf)。
-* Alias的服務: **自己設定一組電子信箱地址**，例如可以將信箱從11550xxxxx@link.cuhk.edu.hk 改成 CUTSA@link.cuhk.edu.hk。主要使用於履歷上信箱地址看起來較為正式，同時也比較容易讓別人記得。申請方法請[參考這裡](http://www.cuhk.edu.hk/itsc/chinese/o365/doc/define-alias-for-@Link.pdf)。
+* Alias的服務: **自己設定一組電子信箱地址**，例如可以將信箱從11550xxxxx@link.cuhk.edu.hk 改成 CUTSA@link.cuhk.edu.hk。主要使用於履歷上信箱地址看起來較為正式，同時也比較容易讓別人記得。申請請到[參考這裡](https://cai.itsc.cuhk.edu.hk/alias/login)。
 
 #### 翻牆專用 VPN
 
