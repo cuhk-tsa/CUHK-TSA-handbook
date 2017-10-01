@@ -12,7 +12,7 @@
 
 謹祝 玩得愉快 ˊˇˋ
 
--&gt;&gt; [開始閱讀](https://cuhktsa.gitbooks.io/cuhk-tsa/content/) &lt;&lt;-
+**-&gt;&gt; **[**開始閱讀**](https://cuhktsa.gitbooks.io/cuhk-tsa/content/)** &lt;&lt;-**
 
 香港中文大學台灣學生會
 
