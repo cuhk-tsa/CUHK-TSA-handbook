@@ -20,18 +20,19 @@
 
 ### 3**.0.2 - 常見Q&A**
 
-* **Citation 好麻煩怎麼辦?**
+* **Citation 好麻煩怎麼辦?**  
   圖書館提供超好用citation軟體，通通列舉[在這裡](http://www.lib.cuhk.edu.hk/en/research/citation/tool/refworks)!
 
-* VPN? 翻牆?
+* VPN? 翻牆?  
   沒錯，學校提供的VPN服務可以[由此設定](https://www.cuhk.edu.hk/itsc/chinese/network/vpn/)。
 
-* 想問有那張non objection letter就可以做part time intern 了嗎？？還是還要跟學校申請什麼東西嗎? \([https://www.facebook.com/groups/162461677166537/permalink/1254941027918591/\](https://www.facebook.com/groups/162461677166537/permalink/1254941027918591/\)\)
+* 想問有那張non objection letter就可以做part time intern 了嗎？？還是還要跟學校申請什麼東西嗎? \([https://www.facebook.com/groups/162461677166537/permalink/1254941027918591/\](https://www.facebook.com/groups/162461677166537/permalink/1254941027918591/%29\)
 
-> 百萬大到會是一個終生難忘的地方
+> 百萬大道會是一個終生難忘的地方
 
 ![](/assets/hk2.jpg)
 
 ---
 
 本條創立於2017.06.07，最後更新於2017.06.16。
+
