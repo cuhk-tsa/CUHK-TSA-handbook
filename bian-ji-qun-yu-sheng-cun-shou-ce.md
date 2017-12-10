@@ -10,7 +10,7 @@
 
 | 年份 | 編輯內容 | 編輯群 |
 | :--- | :--- | :--- |
-| 2018 | Gitbook正式交接，新的總編輯為15' Joyce, 17' Yvonne |  |
+| 2018 | Gitbook正式交接，新的總編輯為15' Joyce, 17' Yvonne | 15' Joyce, 17' Yvonne |
 | 2017 | Gitbook 正式成立，將 Hackpad 內容更新發布。 | 13' Ken, 15' Hannah, 16' Javier, 15' Hank, 15' Angel, 16' Jessie, 17' Irene, 16'Ivy, 15' Joyce, 16' Ron, 17' Lydia |
 | 2016 | Hackpad 完全手冊 Beta 2.0 & 3.0 更新校正 | 13' Ken, 15' Anny, 15' Hank, 15' Joyce, 14' Jenny Ou, 14' Amy, 15' Anthony, 15' 洪莉閩, Jenny H, 13' Anya, 14' Katherine, 15' 陳姿穎, 15' Annie, 15' Angel, Yuan |
 | 2015 | Hackpad 書院完全手冊正式推出 | 13' Ken, 13' Jill, 13' Anya, 15' 連晨傑, 15' Denise, 15' Euler, 15' Anthony, 15' Jo-Yu, 14' Chester, Alex, Candy, 14' 梁軒, 15' 沈聰霖, 15' 陳韋靜, Kelly, 15' 陳姿穎, Lynn, 15' Min-Han, 15' 熊大鈞, 15' Yao-yuan, 15' Junior, Sherry, 15' 劭瑄, Jesse, 14' 可昕, 15' Dennis |
