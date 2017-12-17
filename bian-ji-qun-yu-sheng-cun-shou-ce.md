@@ -23,7 +23,7 @@
 
 ### 備註
 
-技術備註，webhook需要先開通新的user本身在cuhk-tsa github 組織的成員權限方可設定。\(待確認\)
+技術備註，webhook需要先開通新的user本身在cuhk-tsa github 組織的成員權限方可設定，以及該repo的collaborator。
 
 ---
 
