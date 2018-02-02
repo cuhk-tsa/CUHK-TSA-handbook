@@ -10,7 +10,7 @@
 
 * [1 - 新生專區](1-zhi-hui-cao-zuo-yi-ci-de-xin-sheng-zhuan-qu.md)
 * [\|\_\_ 1.1 - 那些必做的事](11-na-xie-bi-zuo-de-shi.md)
-* [\|\_\_ 1.2 - 簽證? 身分證? ](12-qian-8b493f-shen-fen-8b493f.md)
+* [\|\_\_ 1.2 - 簽證？身分證？ ](12-qian-8b493f-shen-fen-8b493f.md)
 * [\|\_\_ 1.2.5 - 兵役](1-2-5-bing-yi.md)
 * [\|\_\_ 1.3 - 抵港](13-di-gang.md)
 * [\|\_\_ 1.4 - 歡迎來到大學](14-huan-ying-lai-dao-da-xue.md)
@@ -30,8 +30,8 @@
 ## 香港生存與生活
 
 * [3 - 學校生存與生活](3-xue-xiao-sheng-cun-yu-sheng-huo.md)
-* [\|\_\_ 3.1 - 好了! 帳號 和 Wifi](31-hao-4e8621-zhang-hao-he-wifi.md)
-* [\|\_\_ 3.2 - 選課? 有關課程](32-xuan-8ab23f.md)
+* [\|\_\_ 3.1 - 好了！帳號 和 Wifi](31-hao-4e8621-zhang-hao-he-wifi.md)
+* [\|\_\_ 3.2 - 選課？有關課程](32-xuan-8ab23f.md)
 * [\|\_\_ 3.3 - 學校辦事處們](33-xue-xiao-ban-shi-chu-men.md)
 * [\|\_\_ 3.4 - 圖書館](3-4-tu-shu-guan.md)
 * [\|\_\_ 3.5 - 暑期課程](3-5-shu-qi-ke-cheng.md)
