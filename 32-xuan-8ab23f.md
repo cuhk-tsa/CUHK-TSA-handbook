@@ -128,7 +128,7 @@ Veriguide \(維誠\) 是中大的學術誠信檢測系統，學術誠信的定�
 中大除了假日及特別活動外，停課源由多為颱風來襲，只要[香港天文台](http://www.hko.gov.hk/contentc.htm)公告**八號風球或黑色暴雨警戒**，即會在對應的時間範圍內即停課，港鐵亦會暫停營運。
 
 
-### 3.2.5 - 怎麼查詢Major / Minor / Concentration Requirement
+### 3.2.5 - 怎麼查詢 Concentration Requirement
 
 許多人（尤其是IBBA）常常面臨「不知道自己修完concentration requirement了沒」的問題，這節要教大家使用CUSIS上小工具 —— what-if report來查詢自己該修些什麼課！
 
@@ -143,8 +143,16 @@ Veriguide \(維誠\) 是中大的學術誠信檢測系統，學術誠信的定�
 ![](/assets/642F1CA2-E385-432C-8CDB-7FAA6EDC7A85.jpeg)
 
 選好之後按下submit report。
-接
+接著就會跑出和academic requirement一樣的頁面，不同的是拉到最下面可以看到有了concentration requirement。
+
+![](/assets/IMG_0103.jpg)
+
+concentration course (i) 是該concentration的必修列表，可以看到列表內只有三門課，寫明了3 Required，3 taken代表你已經修完（綠色勾勾是已經修完、黃色三角形是當學期正在修課），如果沒有修完的話會看到x needed的x>0。
+
+concentration (ii) 列表中有兩門課，但是只有1 required，意思是列表中兩堂要選修一堂。
+
+concentration (iii) 列表中有數門課，但是只有1 required，所以這欄就是那個concentration的elective，上完需要的課程數目就可以了。
 
 ---
-本條創立於2017.06.07，最後更新於2017.06.16。
+本條創立於2017.06.07，最後更新於2018.02.02。
 /#需補充選課流程 + 更新體育課項目#/
