@@ -128,6 +128,23 @@ Veriguide \(維誠\) 是中大的學術誠信檢測系統，學術誠信的定�
 中大除了假日及特別活動外，停課源由多為颱風來襲，只要[香港天文台](http://www.hko.gov.hk/contentc.htm)公告**八號風球或黑色暴雨警戒**，即會在對應的時間範圍內即停課，港鐵亦會暫停營運。
 
 
+### 3.2.5 - 怎麼查詢Major / Minor / Concentration Requirement
+
+許多人（尤其是IBBA）常常面臨「不知道自己修完concentration requirement了沒」的問題，這節要教大家使用CUSIS上小工具 —— what-if report來查詢自己該修些什麼課！
+
+首先進入CUSIS，在左側列表找到what-if report。按下create new report。
+
+![](/assets/82D8706D-70B2-4048-BD93-8F9FD19E5450.jpeg)
+
+接著在自己的major下面選擇Concentration（此處以IBBA做簡介）
+
+![](/assets/7AAAC0ED-42C0-43D7-B290-EDCB10F8ACF0.jpeg)
+
+![](/assets/642F1CA2-E385-432C-8CDB-7FAA6EDC7A85.jpeg)
+
+選好之後按下submit report。
+接
+
 ---
 本條創立於2017.06.07，最後更新於2017.06.16。
 /#需補充選課流程 + 更新體育課項目#/
