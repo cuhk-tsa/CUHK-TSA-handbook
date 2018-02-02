@@ -142,7 +142,7 @@ Veriguide \(維誠\) 是中大的學術誠信檢測系統，學術誠信的定�
 
 ![](/assets/642F1CA2-E385-432C-8CDB-7FAA6EDC7A85.jpeg)
 
-選好之後按下submit report。
+選好之後按下submit request。
 接著就會跑出和academic requirement一樣的頁面，不同的是拉到最下面可以看到有了concentration requirement。
 
 ![](/assets/IMG_0103.jpg)
