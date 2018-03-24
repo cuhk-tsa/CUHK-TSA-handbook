@@ -195,11 +195,12 @@ concentration (iii) 列表中有數門課，但是只有1 required，所以這�
 ![](/assets/螢幕快照 2018-03-25 12.31.10 AM.png)
 記得勾選wait list if class if full唷！不然不會進wait list的。
 ![](/assets/螢幕快照 2018-03-25 12.34.40 AM.png)
+另外，若有在wait list中，可以在enroll中的my class schedule裡面看到自己的wait list position。
 接著可以在Timetable Planner看到自己暫時的時間表。
 接下來就是等待時間到，然後點下enroll啦！
-另外，若有在wait list中，可以在enroll中的my class schedule裡面看到自己的wait list position。
 祝福大家選課順利！(CUSIS每學期選課的時候當機是很正常的.....)
 
+如果問完學長姐建議，看過你的requirements，對於選課還是好困惑好困惑，到底哪個教授好！？給分標準如何？這些見仁見智，小編無法給予一個標準答案，但建議大家可以上[regcourse](http://regcourse.com) 或高登看看，有許多香港人會在上面給予評價。(小編沒用過高登，他算是一個蠻大的討論區，但相對就不見得都是有關course的)
 
 
 ---
