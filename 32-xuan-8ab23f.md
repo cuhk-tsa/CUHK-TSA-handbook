@@ -86,6 +86,7 @@ _**注意：通識教育修課的基本規則**_
 
 需要另外注意的是，大部分的ENGG1000都會專門開給某個faculty，其他faculty容易被擋修，所以會建議在該學期選修。
 
+
 目前CUSIS上是：
 Sem 1：Business Administration, Art
 Sem 2：Science, Social Science, Medicine, Law, Education
