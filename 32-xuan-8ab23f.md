@@ -134,8 +134,9 @@ Veriguide \(維誠\) 是中大的學術誠信檢測系統，學術誠信的定�
 
 中大除了假日及特別活動外，停課源由多為颱風來襲，只要[香港天文台](http://www.hko.gov.hk/contentc.htm)公告**八號風球或黑色暴雨警戒**，即會在對應的時間範圍內即停課，港鐵亦會暫停營運。
 
-### 3.2. - 怎麼查詢 Concentration Requirement
+### 3.2. - 怎麼查詢 Major Requirement
 
+大家一定都非常困惑自己究竟該選什麼課吧？到底我的major的必修跟選修是什麼呢！
 
 
 ### 3.2. - 怎麼查詢 Concentration Requirement
