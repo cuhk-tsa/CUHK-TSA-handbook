@@ -185,6 +185,7 @@ concentration (iii) 列表中有數門課，但是只有1 required，所以這�
 
 上述有了這麼多教學，想必大家對於自己要選什麼課也有了一些初步的想法。那麼要如何選課呢？
 首先可以在Teaching Timetable by Subject/Department裡面搜尋自己有興趣的課程代碼，會跑出來一整列詳細的資訊，相較於直接search比較容易比較老師，時間，以及最重要的是要注意語言，C是Cantonese P是Putonhua E是English。以下我們以UGFH為例。
+
 ![](/assets/螢幕快照 2018-03-25 12.15.56 AM.png)
 ![](/assets/螢幕快照 2018-03-25 12.16.50 AM.png)
 按下Search後，就會出現一長串的本學期開課資訊囉。
