@@ -15,7 +15,7 @@
 * [\|\_\_ 1.3 - 抵港](13-di-gang.md)
 * [\|\_\_ 1.4 - 歡迎來到大學](14-huan-ying-lai-dao-da-xue.md)
 
-## 學校生存與生活
+## 香港生存與生活
 
 * [2 - 香港生存和生活](2-xiang-gang-sheng-cun-he-sheng-huo.md)
 * [\|\_\_ 2.1 - 簽證完整手冊](21-qian-zheng-wan-zheng-shou-ce.md)
@@ -25,10 +25,9 @@
 * [\|\_\_ 2.5 - 八達通](25.md)
 * [\|\_\_ 2.6 - 生活](25-sheng-huo.md)
 * [\|\_\_ 2.7 - 找房?!](2-5-zhao-623f3f21.md)
-* [\|\_\_ 2.8 - 中大Canteen指南](2-8-zhong-da-canteen-zhi-nan.md)
 * [\|\_\_ 2.9 - 吃喝玩樂](2-6-chi-he-wan-le.md)
 
-## 香港生存與生活
+## 學校生存與生活
 
 * [3 - 學校生存與生活](3-xue-xiao-sheng-cun-yu-sheng-huo.md)
 * [\|\_\_ 3.1 - 好了！帳號 和 Wifi](31-hao-4e8621-zhang-hao-he-wifi.md)
@@ -39,6 +38,7 @@
 * [\|\_\_ 3.6 - 我想去交換](3-6-wo-xiang-qu-jiao-huan.md)
 * [\|\_\_ 3.7 - 實習經驗談](3-7-shi-xi-jing-yan-tan.md)
 * [\|\_\_ 3.8 - 只保障三年宿舍！？](3-8-su-fen.md)
+* [\|\_\_ 3.9 - 中大Canteen指南](2-8-zhong-da-canteen-zhi-nan.md)
 
 ## 畢業前後
 
