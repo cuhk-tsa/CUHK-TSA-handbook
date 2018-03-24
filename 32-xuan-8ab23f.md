@@ -180,7 +180,14 @@ concentration (iii) 列表中有數門課，但是只有1 required，所以這�
 
 ### 3.2.7 - 選課教學
 
-
+上述有了這麼多教學，想必大家對於自己要選什麼課也有了一些初步的想法。那麼要如何選課呢？
+首先可以在Teaching Timetable by Subject/Department裡面搜尋自己有興趣的課程代碼，會跑出來一整列詳細的資訊，相較於直接search比較容易比較老師，時間，以及最重要的是要注意語言，C是Cantonese P是Putonhua E是English。以下我們以UGFH為例。
+![](/assets/螢幕快照 2018-03-25 12.15.56 AM.png)
+![](/assets/螢幕快照 2018-03-25 12.16.50 AM.png)
+按下Search後，就會出現一長串的本學期開課資訊囉。
+![](/assets/螢幕快照 2018-03-25 12.18.11 AM.png)
+另外附帶一提的是，而有些課在你enroll後會發生明明有available seats卻不讓你進的情況，可以在選課前事先Teaching Timetable by Subject/Department 的quota點進去看(如果他是藍色的可以讓你點)，可以得知該課reserve了幾個位子，是給那些資格的人，評估有沒有可能等到，再做e-add&drop的計畫。
+將想要的課程看好後，就可將他放入shopping cart，開放選課前記得validate，看看是否有資格不符的課或者衝堂，開放選課後可以選擇enroll或者plan裡面proceed 兩者主要差別在於enroll是把shopping cart全部的東西enroll ，plan則是可以勾選
 
 
 ---
