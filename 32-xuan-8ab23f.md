@@ -195,13 +195,13 @@ concentration (iii) 列表中有數門課，但是只有1 required，所以這�
 ![](/assets/螢幕快照 2018-03-25 12.31.10 AM.png)
 記得勾選wait list if class if full唷！不然不會進wait list的。
 ![](/assets/螢幕快照 2018-03-25 12.34.40 AM.png)
-接著可以在Timetable Planner看到自己暫時的時間的規劃，選完課就是你真正的課表啦
+接著可以在Timetable Planner看到自己暫時的時間表。
 接下來就是等待時間到，然後點下enroll啦！
-若有在wait list中，可以在enroll中的my class schedule裡面看到自己的wait list position
-
+另外，若有在wait list中，可以在enroll中的my class schedule裡面看到自己的wait list position。
+祝福大家選課順利！(CUSIS每學期選課的時候當機是很正常的.....)
 
 
 
 ---
-本條創立於2017.06.07，最後更新於2018.02.02。
+本條創立於2017.06.07，最後更新於2018.03.25。
 /#需補充更新手球#/
