@@ -147,7 +147,13 @@ Veriguide \(維誠\) 是中大的學術誠信檢測系統，學術誠信的定�
 照著你個人的資訊填好，按下search，就可以得到一整串的requirements囉！
 ![](/assets/螢幕快照 2018-03-24 11.56.33 PM.png)
 
-### 3.2.6 - 怎麼查詢 Concentration Requirement
+### 3.2.6 - 如果我想minor.......?
+
+如果有minor的想法，一般來說會要求在它所指定的課程中，修滿18credits，那麼如何知道我想minor的program，有哪些指定課程呢？
+其實跟上面的方法非常類似，只要點開Browse Program Information，選擇自己想minor的program進行查詢就好了，通常minor的標準在最下方，以Computer Science為例，他的program information拉到最下方就是minor標準。
+![](/assets/螢幕快照 2018-03-25 12.10.05 AM.png)
+
+### 3.2.7 - 怎麼查詢 Concentration Requirement
 
 許多人（尤其是IBBA）常常面臨「不知道自己修完concentration requirement了沒」的問題，這節要教大家使用CUSIS上小工具 —— what-if report來查詢自己該修些什麼課！
 
