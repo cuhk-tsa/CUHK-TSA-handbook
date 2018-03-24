@@ -39,6 +39,7 @@
 * [\|\_\_ 3.7 - 實習經驗談](3-7-shi-xi-jing-yan-tan.md)
 * [\|\_\_ 3.8 - 只保障三年宿舍！？](3-8-su-fen.md)
 * [\|\_\_ 3.9 - 中大Canteen指南](2-8-zhong-da-canteen-zhi-nan.md)
+* [\|\_\_ 3.10 書院之外的住宿選擇：iHouse](3-10-shu-yuan-zhiwai-de-zhu-su-xuan-ze-ff1a-ihouse.md)
 
 ## 畢業前後
 
