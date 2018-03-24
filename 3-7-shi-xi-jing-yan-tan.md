@@ -6,7 +6,7 @@
 
 ### 3.7.1 Career Planning and development centre
 
-在學校官方的[career planning and development centre](https://cpdc.osa.cuhk.edu.hk)裡面有些許實習機會會提供，點開上方的students後登入。![](/assets/螢幕快照 2018-03-25 12.51.21 AM.png)裡面有相當多實習或工作相關的資訊，就請大家定時關注啦！
+在學校官方的[career planning and development centre](https://cpdc.osa.cuhk.edu.hk)裡面有些許實習機會會提供，點開上方的students後登入。![](/assets/螢幕快照 2018-03-25 12.51.21 AM.png)接著才能看左方那一列東西，裡面有相當多實習或工作相關的資訊，就請大家定時關注啦！
 
 ### 3.7.2 文字經驗談
 
@@ -31,8 +31,6 @@
 * [2017.02.09](https://www.facebook.com/events/1829012177358620) \[Circle分享會: 學業\] 陳姿穎 - Case Com。
 * [2017.01.19](https://www.facebook.com/events/1721888911405037) \[Circle分享會: 實習\] [何皓原 - 我在新加坡文華東方酒店的半年](https://www.youtube.com/watch?v=MReOcFQJLnU)。
 * [2017.01.19](https://www.facebook.com/events/1721888911405037) \[Circle分享會: 交換\] [金澤楷 - 在歐洲交換時的周遊列國。](https://www.youtube.com/watch?v=l3Uo-I34WFc)
-
-
 
 ---
 
