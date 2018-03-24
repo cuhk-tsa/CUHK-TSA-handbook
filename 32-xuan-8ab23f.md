@@ -134,12 +134,20 @@ Veriguide \(維誠\) 是中大的學術誠信檢測系統，學術誠信的定�
 
 中大除了假日及特別活動外，停課源由多為颱風來襲，只要[香港天文台](http://www.hko.gov.hk/contentc.htm)公告**八號風球或黑色暴雨警戒**，即會在對應的時間範圍內即停課，港鐵亦會暫停營運。
 
-### 3.2. - 怎麼查詢 Major Requirement
+### 3.2.5 - 怎麼查詢 Major Requirement
 
-大家一定都非常困惑自己究竟該選什麼課吧？到底我的major的必修跟選修是什麼呢！
+大家一定都非常困惑自己究竟該選什麼課吧？到底我的的必修課跟選修課會是什麼呢！這一切在CUSIS上都可以查到唷！
+首先先打開MYCUHK點開CUSIS and My Study，在剛進來的頁面中，點下Academic Requirements。
+![](/assets/螢幕快照 2018-03-24 11.44.28 PM.png)
+接著就會跑出你所有的requirements，包括通識和你的program的requirements等等。
+另外一個方法，如果想更進一步知道有關你的program的詳情的，也可以在左邊的Browse Program Information中看到。
+![](/assets/螢幕快照 2018-03-24 11.53.30 PM.png)
+點進去後需要完成一些搜尋條件，我們拿2017-2018的IBBA為例。
+![](/assets/螢幕快照 2018-03-24 11.55.23 PM.png)
+照著你個人的資訊填好，按下search，就可以得到一整串的requirements囉！
+![](/assets/螢幕快照 2018-03-24 11.56.33 PM.png)
 
-
-### 3.2. - 怎麼查詢 Concentration Requirement
+### 3.2.6 - 怎麼查詢 Concentration Requirement
 
 許多人（尤其是IBBA）常常面臨「不知道自己修完concentration requirement了沒」的問題，這節要教大家使用CUSIS上小工具 —— what-if report來查詢自己該修些什麼課！
 
@@ -163,6 +171,11 @@ concentration course (i) 是該concentration的必修列表，可以看到列表
 concentration (ii) 列表中有兩門課，但是只有1 required，意思是列表中兩堂要選修一堂。
 
 concentration (iii) 列表中有數門課，但是只有1 required，所以這欄就是那個concentration的elective，上完需要的課程數目就可以了。
+
+### 3.2.7 - 選課教學
+
+
+
 
 ---
 本條創立於2017.06.07，最後更新於2018.02.02。
