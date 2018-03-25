@@ -182,7 +182,7 @@ concentration (ii) 列表中有兩門課，但是只有1 required，意思是列
 
 concentration (iii) 列表中有數門課，但是只有1 required，所以這欄就是那個concentration的elective，上完需要的課程數目就可以了。
 
-### 3.2.7 - 選課教學
+### 3.2.8 - 選課教學
 
 上述有了這麼多教學，想必大家對於自己要選什麼課也有了一些初步的想法。那麼要如何選課呢？
 首先可以在Teaching Timetable by Subject/Department裡面搜尋自己有興趣的課程代碼，會跑出來一整列詳細的資訊，相較於直接search比較容易比較老師，時間，以及最重要的是要注意語言，C是Cantonese P是Putonhua E是English。以下我們以UGFH為例。
