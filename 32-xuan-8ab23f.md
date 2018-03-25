@@ -211,7 +211,7 @@ concentration (iii) 列表中有數門課，但是只有1 required，所以這�
 
 ![](/assets/螢幕快照 2018-03-25 12.31.10 AM.png)
 
-記得勾選wait list if class if full唷！不然不會進wait list的。
+記得勾選wait list if class is full唷！不然不會進wait list的。
 
 ![](/assets/螢幕快照 2018-03-25 12.34.40 AM.png)
 
