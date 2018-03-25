@@ -40,6 +40,8 @@
 
 * CUHK : 請用 CWEM 登入，會定時登出
 * CUHKa : 請用 CWEM 登入，會定時登出 \(他速度大於等於CUHK\)
+* CUHK1x：請用 CWEM 登入，不會登出\(帳號是學號@link.cuhk.edu.hk\)
+
 * 宿舍網路 \(Resnet\) : 插入網路線 \(自備!\) 請使用CWEM 登入，會定時登出
 * **不會定時**登出的Wifi : 請先使用 CWEM 帳號[申請](https://wifipartners.itsc.cuhk.edu.hk/)。可以連線:
 
@@ -48,6 +50,7 @@
   * CSL
 
   * Y5ZONE
+
   * Eduroam: 世界各重點大專院校都有
 
 注意，請不要自行在宿舍隨意架設網路基地台，會被斷線。對了，記得自己帶網路線。
