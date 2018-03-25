@@ -51,9 +51,9 @@
 
   * Y5ZONE
 
-  * Eduroam: 世界各重點大專院校都有
+  * Eduroam: 世界各重點大專院校都有，非常方便，請至https://wifipartners.itsc.cuhk.edu.hk/getting-connected-eduroam-iphone.html申請
 
-  * CUHK1x：帳號是學校給你的信箱，密碼一樣是CWEM。
+  * CUHK1x：帳號是學校給你的信箱，密碼一樣是CWEM
 
 注意，請不要自行在宿舍隨意架設網路基地台，會被斷線。對了，記得自己帶網路線。
 
