@@ -24,6 +24,8 @@ CUHK International Summer School 是中大暑假開的暑期學校，亦有其�
 
 CUHK International Summer School 的選課，請依照各program指示，再由該單位將選課紀錄轉予RES。
 
+另外有些人會希望在中國上暑課，轉UGEA&B的學分回來以免爛grade，那就在暑假前至OALC官網多注意他們的最新資訊。
+
 ### 3.5.2 在其他學校上暑課、Summer Program之後如何轉學分？
 
 基本上操作跟交換後轉學分回學校應該沒有太大差異。以下例子是2015-2016 summer在UBC上Vancouver Summer Program後成功轉回三學分的案例。我要轉回的course是IBBA的required course - MGNT2510。
