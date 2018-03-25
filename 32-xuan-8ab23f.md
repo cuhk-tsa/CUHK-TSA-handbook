@@ -154,6 +154,7 @@ Veriguide \(維誠\) 是中大的學術誠信檢測系統，學術誠信的定�
 
 如果有minor的想法，一般來說會要求在它所指定的課程中，修滿18credits，那麼如何知道我想minor的program，有哪些指定課程呢？
 其實跟上面的方法非常類似，只要點開Browse Program Information，選擇自己想minor的program進行查詢就好了，通常minor的標準在最下方，以Computer Science為例，他的program information拉到最下方就是minor標準。
+
 ![](/assets/螢幕快照 2018-03-25 12.10.05 AM.png)
 
 ### 3.2.7 - 怎麼查詢 Concentration Requirement
@@ -188,17 +189,32 @@ concentration (iii) 列表中有數門課，但是只有1 required，所以這�
 
 ![](/assets/螢幕快照 2018-03-25 12.15.56 AM.png)
 ![](/assets/螢幕快照 2018-03-25 12.16.50 AM.png)
+
 按下Search後，就會出現一長串的本學期開課資訊囉。
+
 ![](/assets/螢幕快照 2018-03-25 12.18.11 AM.png)
+
 上述方法，如果用My Class Schedule中的Search一樣可以查詢到課程資訊，如下圖，但必須一頁頁翻，相對不方便(新生請注意，課程不是只有開三堂，可以翻頁的唷！這是來自小編的血淚經驗.....)。
+
 ![](/assets/螢幕快照 2018-03-25 12.27.15 AM.png)
+
 另外附帶一提的是，有些課在你enroll後會發生明明有available seats卻不讓你進的情況，可以在選課前事先Teaching Timetable by Subject/Department 的quota點進去看(如果他是藍色的可以讓你點)，可以得知該課reserve了幾個位子，是給那些資格的人，評估有沒有可能等到，再做e-add&drop的計畫。
+
+另外，CUSIS在系統升級之後，為了避免系統擁擠，對於某些熱門的課，會先把學生放在Wait list上面，等到系統高峰期過了，才慢慢把學生放進course list。
+例如：某課有5個vacancy，有11個學生在選課當下選了某課，系統會把學生一路排在wait list 1~11，等到系統比較不擁擠時，再把前5位補進去，6~11位放在wait list 1~6。所以**選課時如果一時沒選進自己想上的課，但是看到還有vacancy，千萬別急著drop去改選別的**！！
+
 將想要的課程看好後，點選My Class Schedule，再點選enroll。就可將他放入shopping cart，開放選課前記得validate，看看是否有資格不符的課或者衝堂，開放選課後可以選擇enroll或者plan裡面proceed 兩者主要差別在於enroll是把shopping cart全部的東西enroll ，plan則是可以勾選，不會全部把表上的東西enroll(當然，你可以全勾)。
+
 ![](/assets/螢幕快照 2018-03-25 12.29.36 AM.png)
+
 輸入class number以後就會跑出下列狀況，按next以繼續進行。(如果在瀏覽課程時，就已確定了有要選擇的特定課程，可以直接點下去那堂課藍色的連結，可以加入shopping cart。但因為大部分時候還要為所有的courses排時間，所以會一次抄很多同個course但不同時段的class number，排好時間確認好以後再放入shopping cart)
+
 ![](/assets/螢幕快照 2018-03-25 12.31.10 AM.png)
+
 記得勾選wait list if class if full唷！不然不會進wait list的。
+
 ![](/assets/螢幕快照 2018-03-25 12.34.40 AM.png)
+
 另外，若有在wait list中，可以在enroll中的my class schedule裡面看到自己的wait list position。
 接著可以在Timetable Planner看到自己暫時的時間表。
 接下來就是等待時間到，然後點下enroll啦！
