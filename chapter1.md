@@ -45,12 +45,16 @@
 [\|\_\_ 3.4 - 圖書館](3-4-tu-shu-guan.md)  
 [\|\_\_ 3.5 - 暑期課程](3-5-shu-qi-ke-cheng.md)  
 [\|\_\_ 3.6 - 我想去交換](3-6-wo-xiang-qu-jiao-huan.md)  
-[\|\_\_ 3.7 - 實習經驗談](3-7-shi-xi-jing-yan-tan.md)
+[\|\_\_ 3.7 - 實習經驗談](3-7-shi-xi-jing-yan-tan.md)  
+[\|\_\_ 3.8 - 只保障三年宿舍！？](/3-8-su-fen.md)  
+[\|\_\_ 3.9 - 中大Canteen指南](/2-8-zhong-da-canteen-zhi-nan.md)  
+[\|\_\_ 3.10 書院之外的住宿選擇：iHouse](/3-10-shu-yuan-zhiwai-de-zhu-su-xuan-ze-ff1a-ihouse.md)
 
 #### **畢業前後**
 
 [4 - 畢業前後](4-bi-ye-qian-hou.md)  
 [\|\_\_ 4.1 - 畢業證件辦理](41-bi-ye-zheng-jian-ban-li.md)  
+[\|\_\_ 4.1.2 - IANG簽證 \(優秀人才留港計劃\)](/41-bi-ye-zheng-jian-ban-li/iangqian-zheng-you-xiu-ren-cai-liu-gang-ji-528329.md)  
 [\|\_\_ 4.2 - 工作經驗談](4-2-gong-zuo-jing-yan-tan.md)  
 [\|\_\_ 4.3 - 研究所經驗談](4-4-yan-jiu-suo-jing-yan-tan.md)
 
