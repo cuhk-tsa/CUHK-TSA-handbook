@@ -6,7 +6,7 @@
 
 ### 4.2.1 學長姐經驗談
 
-2016.10.07 楊博任學長：[investment banking application/ interview preparation](https://docs.google.com/document/d/1OfJuKDLngObLDXfL-eZaH-WMBbZc3-RmKaXUxnup6Hw/edit)（亦適用其他職位申請，是很棒的經驗談！！）
+2016.10.07 楊博任學長：[investment banking application/ interview preparation](https://docs.google.com/document/d/1OfJuKDLngObLDXfL-eZaH-WMBbZc3-RmKaXUxnup6Hw/edit)（亦適用其他職位申請，是很棒的經驗談!!）\[[原文](https://goo.gl/aV3ebv)\]
 
 ### 4.2.2 小分享
 
