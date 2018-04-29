@@ -5,6 +5,7 @@
 * [0 - 歡迎登入團結力量大](README.md)
 * [\|\_\_ 0.0 - 捷徑與目錄](chapter1.md)
 * [\|\_\_ 0.1 - 解惑專區](0-1-jie-huo-zhuan-qu.md)
+* [\|\_\_ 0.2 - 給老人の老問題快速連結](0-2-gei-lao-ren-306e-lao-wen-ti-kuai-su-lian-jie.md)
 
 ## 新生專區
 
