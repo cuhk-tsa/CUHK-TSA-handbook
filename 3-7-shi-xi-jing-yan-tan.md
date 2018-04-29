@@ -32,6 +32,10 @@
 * [2017.01.19](https://www.facebook.com/events/1721888911405037) \[Circle分享會: 實習\] [何皓原 - 我在新加坡文華東方酒店的半年](https://www.youtube.com/watch?v=MReOcFQJLnU)。
 * [2017.01.19](https://www.facebook.com/events/1721888911405037) \[Circle分享會: 交換\] [金澤楷 - 在歐洲交換時的周遊列國。](https://www.youtube.com/watch?v=l3Uo-I34WFc)
 
+### 3.7.4 實習相關簽證之NOL解惑
+
+> NOL: No objection Letter 有太多個案和疑惑，請移動你的滑鼠點我到[簽證完整手冊的2.1.3](/21-qian-zheng-wan-zheng-shou-ce.md)
+
 ---
 
 本條創立於2017.06.07，最後更新於2018.03.25。

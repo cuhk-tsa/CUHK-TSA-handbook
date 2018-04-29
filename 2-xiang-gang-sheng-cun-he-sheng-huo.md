@@ -6,6 +6,7 @@
 
 * 快速傳送我去: 更新MEP \| 換新簽證 \| 台灣護照 → [簽證完整手冊](/21-qian-zheng-wan-zheng-shou-ce.md)
 * 快速傳送我去: NOL掉了 \| IANG → [簽證完整手冊](/21-qian-zheng-wan-zheng-shou-ce.md)
+* NOL 是什麼? 我覺得我是例外 →  [3.7.4 實習相關簽證之NOL解惑](/3-7-shi-xi-jing-yan-tan.md)
 * HKID 遺失/補發/換發 → [身分證](/22-shen-fen-zheng.md)
 * 我要找房子的攻略 → [找房?!](/25-sheng-huo.md)
 
