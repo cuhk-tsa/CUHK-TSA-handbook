@@ -28,7 +28,7 @@
 
 #### C. 往後每次返台
 
-沒錯，每次返台都要反覆 4 和 5，也就是:
+沒錯，在你完成服役之前，每次返台都要反覆 4 和 5，也就是:
 
 1. **返台前夕申請三個月內**的[在學證明](https://rgsntl.rgs.cuhk.edu.hk/rws_prd_life/rws_appl/appf_crtltr_ug.asp) \(不需認證\)
 2. **到出入境管理局申請出境** 1. 返台後，請至所在地之[出入境管理局](http://www.immigration.gov.tw/np.asp?ctNode=29679&mp=1)，辦理出境。 2. 你需要準備
@@ -57,5 +57,5 @@
 
 本條創立於2017.06.07，最後更新於2018.04.29。
 
-[^1]: 資料來源: https://www.ptt.cc/bbs/studyabroad/M.1490403436.A.770.html
+[^1]: 資料來源: [https://www.ptt.cc/bbs/studyabroad/M.1490403436.A.770.html](https://www.ptt.cc/bbs/studyabroad/M.1490403436.A.770.html)
 
