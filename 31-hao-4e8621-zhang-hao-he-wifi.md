@@ -51,7 +51,7 @@
 
   * Y5ZONE
 
-  * Eduroam: 世界各重點大專院校都有，非常方便，請至https://wifipartners.itsc.cuhk.edu.hk/getting-connected-eduroam-iphone.html申請
+  * Eduroam: 世界各重點大專院校都有，非常方便，請至[https://wifipartners.itsc.cuhk.edu.hk/getting-connected-eduroam-iphone.html申請](https://wifipartners.itsc.cuhk.edu.hk/getting-connected-eduroam-iphone.html申請)
 
   * CUHK1x：帳號是學校給你的信箱，密碼一樣是CWEM
 
@@ -61,7 +61,7 @@
 
 #### Office 365
 
-* 申請: [https://www.cuhk.edu.hk/itsc/chinese/o365/](https://www.cuhk.edu.hk/itsc/chinese/o365/)
+* 請先於[此處](https://www.cuhk.edu.hk/o365/)登入，之後再點下右側的Install Office apps
 * 自去年開始，中大與微軟合作讓同學可以免費下載使用Office 365 ProPlus。Office 365 包含了 **Word, Excel, Powerpoint, OneNote, Access, Publisher, Outlook, Lync, InfoPath** 共九個專業文書軟體。價值不斐!
 * 附帶 Office 365 的事商業用 **One-Drive**。One-Drive 是由微軟開發的網路硬碟，中大學生在開始使用Office 365之後隨即獲得 1TB 的網路儲存空間。
 
