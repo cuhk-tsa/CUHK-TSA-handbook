@@ -51,7 +51,7 @@
 
   * Y5ZONE
 
-  * Eduroam: 世界各重點大專院校都有，非常方便，請至[https://wifipartners.itsc.cuhk.edu.hk/getting-connected-eduroam-iphone.html申請](https://wifipartners.itsc.cuhk.edu.hk/getting-connected-eduroam-iphone.html申請)
+  * Eduroam: 世界各重點大專院校都有，非常方便，請至[此處](https://wifipartners.itsc.cuhk.edu.hk/getting-connected-eduroam-iphone.html)跟隨教學申請
 
   * CUHK1x：帳號是學校給你的信箱，密碼一樣是CWEM
 
@@ -69,8 +69,7 @@
 
 * 好好愛惜這個帳號，因為會讓你填寫e-mail時看起來很專業!
 * @link 是 Office 365 底下的功能，也是從今年開始中大唯一提供的 e-mail 服務。所有學生的 e-mail 初始設定將會是: sid@link.cuhk.edu.hk. 而所有學校的信件一律寄送到此信箱。
-* **強烈建議可以將信箱設定自動轉寄到自己平常使用的信箱**，設定方法請[參考這裡](https://www.cuhk.edu.hk/itsc/o365/doc/general-functions.pdf)。
-* Alias的服務: **自己設定一組電子信箱地址**，例如可以將信箱從11550xxxxx@link.cuhk.edu.hk 改成 CUTSA@link.cuhk.edu.hk。主要使用於履歷上信箱地址看起來較為正式，同時也比較容易讓別人記得。申請請到[參考這裡](https://cai.itsc.cuhk.edu.hk/alias/login)。
+* 這個@link信箱可以轉移到自己平常習慣使用的郵箱、裝置上，畢業後可申請for alumni信箱，詳細操作教學請見[此處](https://www.itsc.cuhk.edu.hk/en-gb/student-it/email-messaging-and-collaboration/link-email)
 
 #### 翻牆專用 VPN
 
