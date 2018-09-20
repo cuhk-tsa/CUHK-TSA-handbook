@@ -1,6 +1,6 @@
-# CUHK 台灣學生會 生存手冊
+# 0 - 歡迎登入團結力量大
 
-![](/assets/14615655_1573387632686697_8475869347044636714_o.jpg)
+![](.gitbook/assets/14615655_1573387632686697_8475869347044636714_o.jpg)
 
 各位親愛的新朋友 :
 
@@ -12,7 +12,7 @@
 
 謹祝 玩得愉快 ˊˇˋ
 
-**-&gt;&gt; **[**開始閱讀**](https://cuhktsa.gitbooks.io/cuhk-tsa/content/)** &lt;&lt;-**
+**-&gt;&gt;** [**開始閱讀**](https://cuhktsa.gitbooks.io/cuhk-tsa/content/) **&lt;&lt;-**
 
 香港中文大學台灣學生會
 
