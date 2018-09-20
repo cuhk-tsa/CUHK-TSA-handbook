@@ -11,19 +11,19 @@
 
 ### **前言**
 
-0 - 歡迎登入團結力量大  
+[0 - 歡迎登入團結力量大](https://cuhktsa.gitbook.io/cuhk-tsa/)  
 [\|\_\_ 0.0 - 捷徑與目錄](content-table.md)  
 [\|\_\_ 0.1 - 解惑專區](faq.md)  
 [\|\_\_ 0.2 - 給老人の老問題快速連結](fast-links.md)
 
 ### **新生專區**
 
-[1 - 新生專區](../xin-sheng-zhuan-qu/1-zhi-hui-cao-zuo-yi-ci-de-xin-sheng-zhuan-qu.md)  
-[\|\_\_ 1.1 - 那些必做的事](../xin-sheng-zhuan-qu/11-na-xie-bi-zuo-de-shi.md)  
-[\|\_\_ 1.2 - 簽證? 身分證? ](../xin-sheng-zhuan-qu/12-qian-8b493f-shen-fen-8b493f.md)  
-[\|\_\_ 1.2.5 - 兵役](../xin-sheng-zhuan-qu/1-2-5-bing-yi.md)  
-[\|\_\_ 1.3 - 抵港](../xin-sheng-zhuan-qu/13-di-gang.md)  
-[\|\_\_ 1.4 - 歡迎來到大學](../xin-sheng-zhuan-qu/14-huan-ying-lai-dao-da-xue.md)
+[1 - 新生專區](../newbie/welcome-new.md)  
+[\|\_\_ 1.1 - 那些必做的事](../newbie/todo.md)  
+[\|\_\_ 1.2 - 簽證? 身分證? ](../newbie/id.md)  
+[\|\_\_ 1.2.5 - 兵役](../newbie/military.md)  
+[\|\_\_ 1.3 - 抵港](../newbie/arrivial.md)  
+[\|\_\_ 1.4 - 歡迎來到大學](../newbie/welcome-to-uni.md)
 
 ### **學校生存與生活**
 
