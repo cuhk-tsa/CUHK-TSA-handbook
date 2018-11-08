@@ -13,18 +13,17 @@
 **首次申請流程**
 
 1. \(如果你出境時就已經受到管制請先申請: [短期出境](https://www.ris.gov.tw/departure/app/)\)，並在四個月內完成下列程序。
-2. [申請在學證明](https://rgsntl.rgs.cuhk.edu.hk/rws_prd_life/rws_appl/appf_crtltr_ug.asp) 申事由註明台灣兵役申請
-   1. 申請時請務必一定註明中文版
+   1. [申請在學證明](https://rgsntl.rgs.cuhk.edu.hk/rws_prd_life/rws_appl/appf_crtltr_ug.asp) 申事由（Purpose for this Application Chinese version, expected graduation term: 2022 term 1, sealed envelope 註明台灣兵役申請時請務必一定註明中文版\)
    2. 申請時請務必一定加註預計畢業年分 \(學生證上有\)
    3. 拿到信封後一定要確定他是彌封的狀態\(代表信件封的部分要蓋章\)
-3. 透過外館 \(此為香港台北經濟文化辦事處\) 驗證: **若出境時以達役齡而短期出境者，又無法於短期出境日期限制前返台，此文件應先寄回台灣辦理相關手續。**
+2. 透過外館 \(此為香港台北經濟文化辦事處\) 驗證: **若出境時以達役齡而短期出境者，又無法於短期出境日期限制前返台，此文件應先寄回台灣辦理相關手續。**
    1. 攜帶中文版的學歷證明書、學生證、入境許可證至[台北經濟文化辦事處](https://www.google.com.tw/maps/place/力寶中心/@22.27958,114.163526,17z/data=!3m1!4b1!4m2!3m1!1s0x34040066f597be8f:0x9b34af0b9e512a07?hl=zh-TW)\(港鐵金鐘站 B出口，力寶中心40樓\)
    2. 請於上班收件時間：上午九點至十二點辦理驗證
    3. 填妥[文件證明申請表](http://www.tecos.org.hk/download/authentication.pdf)並繳付港幣120元。
    4. 等候電話通知
    5. 請於上班領件時間：下午兩點至下午五點辦理領件
-4. 返台前夕申請在學證明 : [在學證明](https://rgsntl.rgs.cuhk.edu.hk/rws_prd_life/rws_appl/appf_crtltr_ug.asp) \(這個就不用再認證了\)
-5. 返台後到出入境管理局申請出境
+3. 返台前夕申請在學證明 : [在學證明](https://rgsntl.rgs.cuhk.edu.hk/rws_prd_life/rws_appl/appf_crtltr_ug.asp) \(這個就不用再認證了\)
+4. 返台後到出入境管理局申請出境
 
 ## C. 往後每次返台
 
