@@ -17,7 +17,7 @@
 
 符合下列兩者之一即可豁免 CHLT 1100 和 CHLT 1200 共六學分的大學通識：  
 1. 學測 14 級分 \(含\) 以上**且**作文 A+  
-2. 指考 70 分 \(含\) 以上 如要[申請豁免](http://rgsntl.rgs.cuhk.edu.hk/rws_prd_life/re_menu/cft_115109052.asp)大學中文，請依照科系於指定日期\(時間請以學校公告為主\) 內繳交：[申請表](https://rgsntl.rgs.cuhk.edu.hk/rws_prd_life/re_menu/upload/menu/original/20120813174104642.pdf)、成績單正本 or 影本
+2. 指考 70 分 \(含\) 以上 如要申請豁免大學中文，請依照科系於指定日期\(時間請以學校公告為主\) 內繳交：申請表、成績單正本 or 影本
 
 ![](../.gitbook/assets/image.jpg)
 
@@ -39,9 +39,15 @@
   * TOEFL IBT 79 \(含\)以上
   * IELTS 總分6.5 \(含\)以上，各科成績 7 \(含\)以上
 
-如果要申請豁免/替換，請依照科系於指定日期內繳交：[豁免申請表](https://rgsntl.rgs.cuhk.edu.hk/rws_prd_life/re_menu/upload/menu/original/20120814092607725.pdf) / [替換申請表](https://rgsntl.rgs.cuhk.edu.hk/rws_prd_life/re_menu/upload/menu/original/20120814103752429.pdf)、成績單 / 證書 正本or影本
+如果要申請豁免/替換，請依照科系於指定日期內繳交：豁免申請表 / 替換申請表\(CUSIS內\)、成績單 / 證書 正本or影本
 
 ![](../.gitbook/assets/image2.jpg)
+
+####  申請表
+
+![](../.gitbook/assets/screen-shot-2018-11-08-at-7.29.01-pm.png)
+
+### 
 
 ### 三、通識教育
 
