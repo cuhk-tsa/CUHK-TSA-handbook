@@ -32,7 +32,7 @@
 \[2011 - 09 - 03\] Yu Chu 發表第一篇社團內交易文 \[1\] 並開設交易區文件  
 \[2011 - 09 - 08\] 第一屆 開Sem飯，於UC staff can，有dress code 為 「红蓝白, 有型，可以選单色。」。此次參與人數為 17 人。 \[1, 2, [影像](https://www.facebook.com/photo.php?fbid=10150434854399199&set=oa.166650693414302&type=3&theater)\]  
 \[2011 - 10 - 05\] 第一次參與國慶晚會。 \[1, 2\]  
-\[2012 - 02 - 05\] 留港台灣學生會, Hong Kong Taiwanese Student Association\(HKTSA\) 正式成立且招募幹部。 \[1, 2, 3\]
+\[2012 - 02 - 05\] 留港臺灣學生會, Hong Kong Taiwanese Student Association\(HKTSA\) 正式成立且招募幹部。 \[1, 2, 3\]
 
 本條創立於2017.06.07，最後更新於2018.12.24。
 
