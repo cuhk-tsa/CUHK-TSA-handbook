@@ -53,6 +53,6 @@
 
 ## 幕前幕後
 
-* [台灣學生會](mu-qian-mu-hou/5-mu-qian-mu-hou.md)
+* [臺灣學生會](mu-qian-mu-hou/5-mu-qian-mu-hou.md)
 * [編輯群與生存手冊](mu-qian-mu-hou/bian-ji-qun-yu-sheng-cun-shou-ce.md)
 
