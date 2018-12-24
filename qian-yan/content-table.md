@@ -18,12 +18,12 @@
 
 ### **新生專區**
 
-[1 - 新生專區](../newbie/welcome-new.md)  
-[\|\_\_ 1.1 - 那些必做的事](../newbie/todo.md)  
-[\|\_\_ 1.2 - 簽證? 身分證? ](../newbie/id.md)  
-[\|\_\_ 1.2.5 - 兵役](../newbie/military.md)  
-[\|\_\_ 1.3 - 抵港](../newbie/arrivial.md)  
-[\|\_\_ 1.4 - 歡迎來到大學](../newbie/welcome-to-uni.md)
+[1 - 新生專區](../xin-sheng-zhuan-qu/welcome-new.md)  
+[\|\_\_ 1.1 - 那些必做的事](../xin-sheng-zhuan-qu/todo.md)  
+[\|\_\_ 1.2 - 簽證? 身分證? ](../xin-sheng-zhuan-qu/id.md)  
+[\|\_\_ 1.2.5 - 兵役](../xin-sheng-zhuan-qu/military.md)  
+[\|\_\_ 1.3 - 抵港](../xin-sheng-zhuan-qu/arrivial.md)  
+[\|\_\_ 1.4 - 歡迎來到大學](../xin-sheng-zhuan-qu/welcome-to-uni.md)
 
 ### **學校生存與生活**
 

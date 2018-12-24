@@ -4,18 +4,18 @@
 
 ## 前言
 
-* [\|\_\_ 0.0 - 捷徑與目錄](welcome/content-table.md)
-* [\|\_\_ 0.1 - 解惑專區](welcome/faq.md)
-* [\|\_\_ 0.2 - 給老人の老問題快速連結](welcome/fast-links.md)
+* [\|\_\_ 0.0 - 捷徑與目錄](qian-yan/content-table.md)
+* [\|\_\_ 0.1 - 解惑專區](qian-yan/faq.md)
+* [\|\_\_ 0.2 - 給老人の老問題快速連結](qian-yan/fast-links.md)
 
 ## 新生專區
 
-* [1 - 新生專區](newbie/welcome-new.md)
-* [\|\_\_ 1.1 - 那些必做的事](newbie/todo.md)
-* [\|\_\_ 1.2 - 簽證？身分證？](newbie/id.md)
-* [\|\_\_ 1.2.5 - 兵役](newbie/military.md)
-* [\|\_\_ 1.3 - 抵港](newbie/arrivial.md)
-* [\|\_\_ 1.4 - 歡迎來到大學](newbie/welcome-to-uni.md)
+* [1 - 新生專區](xin-sheng-zhuan-qu/welcome-new.md)
+* [\|\_\_ 1.1 - 那些必做的事](xin-sheng-zhuan-qu/todo.md)
+* [\|\_\_ 1.2 - 簽證？身分證？](xin-sheng-zhuan-qu/id.md)
+* [\|\_\_ 1.2.5 - 兵役](xin-sheng-zhuan-qu/military.md)
+* [\|\_\_ 1.3 - 抵港](xin-sheng-zhuan-qu/arrivial.md)
+* [\|\_\_ 1.4 - 歡迎來到大學](xin-sheng-zhuan-qu/welcome-to-uni.md)
 
 ## 香港生存與生活
 
@@ -42,6 +42,7 @@
 * [\|\_\_ 3.8 - 只保障三年宿舍！？](xue-xiao-sheng-cun-yu-sheng-huo/3-8-su-fen.md)
 * [\|\_\_ 3.9 - 中大Canteen指南](xue-xiao-sheng-cun-yu-sheng-huo/2-8-zhong-da-canteen-zhi-nan.md)
 * [\|\_\_ 3.10 書院之外的住宿選擇：iHouse](xue-xiao-sheng-cun-yu-sheng-huo/3-10-shu-yuan-zhiwai-de-zhu-su-xuan-ze-ff1a-ihouse.md)
+* [\|\_\_ 3.11 推薦App](xue-xiao-sheng-cun-yu-sheng-huo/3.11-tui-app.md)
 
 ## 畢業前後
 
