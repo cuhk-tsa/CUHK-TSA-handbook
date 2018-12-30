@@ -12,15 +12,15 @@
 
 ## 二、準備物品
 
-1. 畢業證書的A4影本（記得背後也要印，正本背面右下角有序號。認證的那張貼紙，是貼在A4影本上面的。外交部阿姨表示：「因為正式的畢業證書，你也不希望因為台灣方面要用而去貼了貼紙吧？」）
+1. 由**學校認證過**的**彌封**的畢業證書的A4**影本**: 可以直接向學校RGS申請 Certified True Copy. 記得和職員確認 - 背後也要印，正本背面右下角有序號，要彌封要齊縫章。 \(認證的那張貼紙，是貼在A4影本上面的。外交部阿姨表示：「因為正式的畢業證書，你也不希望因為台灣方面要用而去貼了貼紙吧？」\)
 2. 畢業證書正本（正本是看完就OK，拿影本去作業，所以交件當天會還你。）
 3. 台灣護照或身分證（他寫或，但是依據個人應付外交部的心得，多帶絕對不會錯。）
-4. 多簽本（我的情況是當時有IANG，阿姨有稍微說，如果旅遊簽的話有點麻煩，非IANG的情況需其他強者補充。另，第一年IANG好申請的程度是在港之中最簡單的一次，即使沒工作也一定會批給你，辦了絕對沒壞處，建議要辦。）
+4. 持 IANG: 多簽本 持 旅遊簽: 台胞證
 5. 申請表（[http://www.tecos.org.hk/download/authentication.pdf](https://l.facebook.com/l.php?u=http%3A%2F%2Fwww.tecos.org.hk%2Fdownload%2Fauthentication.pdf&h=ATO5t8v2-Pv8yqR_ZQxjgchxGxDam4oNV80KJErJOEDQFLkBI0SOnJigSfMkGs7Aa_bOjq1UOsOPUdadexQWT7PCY6KNaZcomEhd6UF_CcJwFb1wUb8kOhWdaQaHvIAxuZg3Ik63qU40HtrOFpc&enc=AZOUQqNkL7G-HbGQ2T6ne091h1O31W07S1GtYj6227MR8tLfYU9hCQRu-2taY-PFqElLERPQxZsLJ2a8j0lcRfzIFxGOAvvKA67rU7ELDrQKcsGJAcps0FwYOqW6yIkcvEM6ON6-RXgad89zgXpGiv11h65zEO-v5eMxjPqVnrGJrAZJm6ChyTjoe09BHjvt_kQ&s=1)）
 6. HKD$120
 7. 驗證授權書（交件時會給）
 8. 本人（沒錯，就是要本人。非本人去，要寫一份授權書，而那份授權書需要委託人在地的法院認證（eg. 人在台灣需要台灣的法院認證；在美國要美國的法院認證），會　非　常　麻　煩，所以建議還是自己親自去一趟。
-9. 學生證正影本（好像需要，待求證）
+9. 學生證正影本（他要確認你真的待過中大）
 
 ## 三、收件時間
 
