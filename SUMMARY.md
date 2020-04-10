@@ -8,16 +8,16 @@
 * [\|\_\_ 0.1 - 解惑專區](qian-yan/faq.md)
 * [\|\_\_ 0.2 - 給老人の老問題快速連結](qian-yan/fast-links.md)
 
-## 新生專區
+## 新生專區 <a id="welcome"></a>
 
-* [1 - 新生專區](xin-sheng-zhuan-qu/welcome-new.md)
-* [\|\_\_ 1.1 - 那些必做的事](xin-sheng-zhuan-qu/todo.md)
-* [\|\_\_ 1.2 - 簽證？身分證？](xin-sheng-zhuan-qu/id.md)
-* [\|\_\_ 1.2.5 - 台灣護照以外的護照](xin-sheng-zhuan-qu/1.2.5-you-tai-zhao-yi-wai-de-zhao.md)
-* [\|＿1.2.6 - 香港護照](xin-sheng-zhuan-qu/1.2.6-xiang-gang-zhao.md)
-* [\|\_\_ 1.3 - 兵役](xin-sheng-zhuan-qu/military.md)
-* [\|\_\_ 1.4 - 抵港](xin-sheng-zhuan-qu/arrivial.md)
-* [\|\_\_ 1.5 - 歡迎來到大學](xin-sheng-zhuan-qu/welcome-to-uni.md)
+* [1 - 新生專區](welcome/welcome-new.md)
+* [\|\_\_ 1.1 - 那些必做的事](welcome/todo.md)
+* [\|\_\_ 1.2 - 簽證？身分證？](welcome/id.md)
+* [\|\_\_ 1.2.5 - 台灣護照以外的護照](welcome/1.2.5-you-tai-zhao-yi-wai-de-zhao.md)
+* [\|＿1.2.6 - 香港護照](welcome/1.2.6-xiang-gang-zhao.md)
+* [\|\_\_ 1.3 - 兵役](welcome/military.md)
+* [\|\_\_ 1.4 - 抵港](welcome/arrivial.md)
+* [\|\_\_ 1.5 - 歡迎來到大學](welcome/welcome-to-uni.md)
 
 ## 香港生存與生活
 
