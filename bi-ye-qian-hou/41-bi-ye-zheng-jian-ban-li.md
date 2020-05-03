@@ -24,6 +24,7 @@
 
 ## 三、收件時間
 
+2020/05/03更新：現在[採預約制](https://www.teco-hk.org/News_Content.aspx?n=D9D343F0F08E74FC&sms=A673E23B4E4B5DEE&s=9D3EA6F91C64F212&fbclid=IwAR2KJT9bMNESp078WjLX95os-s4wUupkb2Ktp7OVAevGekigo5L5ESBnnJA)，完全不接受walk-in哦！我的經驗是4/27交件，4/29就可以領了。
 很重要很重要很重要：一到五，9am~12pm（就是短短三小時）  
 處理時間，我去年經驗約10天（含假日）
 
