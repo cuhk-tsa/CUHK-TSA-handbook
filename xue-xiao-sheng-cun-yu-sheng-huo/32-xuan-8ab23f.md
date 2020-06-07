@@ -47,8 +47,6 @@
 
 ![](../.gitbook/assets/exemption-final.png)
 
-### 
-
 ### 三、通識教育
 
 通識教育分為
