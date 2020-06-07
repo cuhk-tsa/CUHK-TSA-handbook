@@ -45,7 +45,7 @@
 
 ####  申請表
 
-![](../.gitbook/assets/screen-shot-2018-11-08-at-7.29.01-pm.png)
+![](../.gitbook/assets/exemption-final.png)
 
 ### 
 
