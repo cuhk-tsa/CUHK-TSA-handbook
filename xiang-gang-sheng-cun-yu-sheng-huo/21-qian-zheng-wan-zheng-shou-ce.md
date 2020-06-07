@@ -18,9 +18,8 @@
 #### A. 延長MEP
 
 1. 申請時間: 5 - 7  工作天
-2. 建議先上[www.gov.hk.esbooking ](https://github.com/cuhk-tsa/CUHK-TSA-handbook/tree/6e560c797cdafdb8b952d7ca4f731230454b1b9e/www.gov.hk.esbooking)預約時段 或是不要在開學期間辦理 因為每天延留組現場名額只有平日：196/週六：30個
-3. 請準備:
-4. * 舊的MEP及影本（資料頁、簽證）
+2. 請準備:
+3. * 舊的MEP及影本（資料頁、簽證）
    * 香港居民身分證 及影本
    * 護照 及影本
    * 兩吋相片
