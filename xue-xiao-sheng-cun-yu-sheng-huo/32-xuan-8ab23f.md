@@ -142,7 +142,13 @@ Veriguide \(維誠\) 是中大的學術誠信檢測系統，學術誠信的定�
 
 ## 3.2.5 - 怎麼查詢 Major Requirement
 
-大家一定都非常困惑自己究竟該選什麼課吧？到底我的的必修課跟選修課會是什麼呢！這一切在CUSIS上都可以查到唷！ 首先先打開MYCUHK點開CUSIS and My Study，在剛進來的頁面中，點下Academic Requirements。 ![](../.gitbook/assets/ying-mu-kuai-zhao-20180324-11.44.28-pm.png) 接著就會跑出你所有的requirements，包括通識和你的program的requirements等等。 另外一個方法，如果想更進一步知道有關你的program的詳情的，也可以在左邊的Browse Program Information中看到。 ![](../.gitbook/assets/ying-mu-kuai-zhao-20180324-11.53.30-pm.png) 點進去後需要完成一些搜尋條件，我們拿2017-2018的IBBA為例。 ![](../.gitbook/assets/ying-mu-kuai-zhao-20180324-11.55.23-pm.png) 照著你個人的資訊填好，按下search，就可以得到一整串的requirements囉！ ![](../.gitbook/assets/ying-mu-kuai-zhao-20180324-11.56.33-pm.png)
+大家一定都非常困惑自己究竟該選什麼課吧？到底我的的必修課跟選修課會是什麼呢！這一切在CUSIS上都可以查到唷！ 首先先打開MYCUHK點入CUSIS ，在剛進來的頁面中，點Academic Progress。進入後左欄選取My Academic Requirements。 接著就會跑出你所有的requirements，包括通識和你的program的requirements等等。
+
+![](../.gitbook/assets/my-major-require.png)
+
+ 另外一個方法，如果想更進一步知道有關你的program的詳情的，也可以在CUSIS方格介面中的Academic Records中查到。點進去後，左欄選取Browse Program Information。輸入完搜索條件，即可得到一整串的requirements囉！ 
+
+![](../.gitbook/assets/my-major-require-2.png)
 
 ## 3.2.6 - 如果我想minor.......?
 
