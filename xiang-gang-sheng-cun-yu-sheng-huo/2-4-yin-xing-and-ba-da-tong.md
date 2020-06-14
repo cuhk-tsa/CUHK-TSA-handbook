@@ -44,10 +44,8 @@
 學費繳交上學期會在9月左右，一般都是在月底結清就可以了。下學期的部分大約會在12月繳交。繳交方式非常多元，最重要的是要取得 "**繳費編號**"。
 
 * 登入CUSIS
-* 左邊選擇Print Online Debit Note
-* 右上方就會看到 Payment Number \(就是他!\)
-
-  ![](../.gitbook/assets/pay_ref.png)
+* 方格選欄中選取Financial Account
+* 左方欄選取Print Online Debit Note
 
 繳納的主要的方式有:
 
