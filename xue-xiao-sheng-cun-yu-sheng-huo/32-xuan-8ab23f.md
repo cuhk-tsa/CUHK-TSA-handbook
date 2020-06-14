@@ -194,7 +194,7 @@ concentration \(iii\) 列表中有數門課，但是只有1 required，所以這
 
 ![](../.gitbook/assets/ying-mu-kuai-zhao-20180325-12.18.11-am.png)
 
-### 3.8.2.2 - 選課教學
+### 3.8.2.2 - 選課
 
 #### 1.加入shopping cart 
 
