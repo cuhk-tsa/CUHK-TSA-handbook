@@ -182,17 +182,41 @@ concentration \(iii\) 列表中有數門課，但是只有1 required，所以這
 
 ## 3.2.8 - 選課教學
 
-上述有了這麼多教學，想必大家對於自己要選什麼課也有了一些初步的想法。那麼要如何選課呢？ 首先可以在Teaching Timetable by Subject/Department裡面搜尋自己有興趣的課程代碼，會跑出來一整列詳細的資訊，相較於直接search比較容易比較老師，時間，以及最重要的是要注意語言，C是Cantonese P是Putonhua E是English。以下我們以UGFH為例。
+### 3.2.8.1 - 如何查詢課程？
 
-![](../.gitbook/assets/ying-mu-kuai-zhao-20180325-12.15.56-am.png) ![](../.gitbook/assets/ying-mu-kuai-zhao-20180325-12.16.50-am.png)
+上述有了這麼多教學，想必大家對於自己要選什麼課也有了一些初步的想法。 最重要的是要注意語言，C是Cantonese P是Putonhua E是English。\(貼心小提醒：若語言顯示E&C，最後主要上課語言大多仍為Cantonese！\)
+
+那麼如何查詢課程呢？以下我們以UGFH為例：
+
+在CUSIS中的Manage Classes，點選左欄的Teaching Timetable by Subject/Department，選取term與輸入自己有興趣的課程代碼。
+
+![](../.gitbook/assets/regcourse.png)
 
 按下Search後，就會出現一長串的本學期開課資訊囉。
 
 ![](../.gitbook/assets/ying-mu-kuai-zhao-20180325-12.18.11-am.png)
 
-上述方法，如果用My Class Schedule中的Search一樣可以查詢到課程資訊，如下圖，但必須一頁頁翻，相對不方便\(新生請注意，課程不是只有開三堂，可以翻頁的唷！這是來自小編的血淚經驗.....\)。
+### 3.8.2.2 - 選課教學
 
-![](../.gitbook/assets/ying-mu-kuai-zhao-20180325-12.27.15-am.png)
+#### 1.加入shopping cart 
+
+同樣在CUSIS中的Manage Classes，左欄選取Class Search/Add to Cart，畫面右方就會出現term的相關資訊。選取該學期的term，在下一個出現的畫面輸入course\(課程代碼\)。
+
+![](../.gitbook/assets/shopping-cart-1.png)
+
+按下ENTER後，會出現同樣課程代碼的一系列課程。選取你要的課程後，在下個出現的畫面選取適合自己的課表的時段。
+
+![](../.gitbook/assets/shopping-cart-2.png)
+
+接下來就會進入Class Search and Enroll的畫面了。Step1:首先確認畫面中為自己所選的課程，按右上方的Next。Step2:記得把Add to waitlist if class is full勾選YES，否則系統不會在滿班的時候把你加進waitlist。點選畫面右上方的accept後，accept的正上方才會出現讓你點選next的按鈕。Step3:最後選取submit，就成功把課程加入shopping cart啦！
+
+![](../.gitbook/assets/shopping-cart-3.png)
+
+#### 2.enroll課程
+
+同樣在CUSIS中的Manage Classes，左欄選取Class Search/Add to Cart，畫面右方就會出現term的相關資訊。選取該學期的term，在下一個出現的畫面輸入course\(課程代碼\)。
+
+![](../.gitbook/assets/enroll.png)
 
 另外附帶一提的是，有些課在你enroll後會發生明明有available seats卻不讓你進的情況，可以在選課前事先Teaching Timetable by Subject/Department 的quota點進去看\(如果他是藍色的可以讓你點\)，可以得知該課reserve了幾個位子，是給那些資格的人，評估有沒有可能等到，再做e-add&drop的計畫。
 
