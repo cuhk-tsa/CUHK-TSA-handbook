@@ -160,17 +160,15 @@ Veriguide \(維誠\) 是中大的學術誠信檢測系統，學術誠信的定�
 
 許多人（尤其是IBBA）常常面臨「不知道自己修完concentration requirement了沒」的問題，這節要教大家使用CUSIS上小工具 —— what-if report來查詢自己該修些什麼課！
 
-首先進入CUSIS，在左側列表找到what-if report。按下create new report。
+首先進入CUSIS，在方格選欄中選取Academic Progress。進入後，左側列表找到View what-if report。會跳出一個新視窗，按下create new report。
 
-![](../.gitbook/assets/82d8706d-70b2-4048-bd93-8f9fd19e5450.jpeg)
+![](../.gitbook/assets/concentration-require.png)
 
-接著在自己的major下面選擇Concentration（此處以IBBA做簡介）
+接著在自己的major下面選擇Concentration，選好之後按下submit request。（此處以IBBA做簡介）
 
-![](../.gitbook/assets/7aaac0ed-42c0-43d7-b290-edcb10f8acf0.jpeg)
+![](../.gitbook/assets/concentration-require2.png)
 
-![](../.gitbook/assets/642f1ca2-e385-432c-8cdb-7faa6edc7a85.jpeg)
-
-選好之後按下submit request。 接著就會跑出和academic requirement一樣的頁面，不同的是拉到最下面可以看到有了concentration requirement。
+接著就會跑出和academic requirement一樣的頁面，不同的是拉到最下面可以看到有了concentration requirement。
 
 ![](../.gitbook/assets/img_0103.jpg)
 
