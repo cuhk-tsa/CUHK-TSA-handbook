@@ -13,12 +13,10 @@
 ## 0.0.3 - CUSIS 使用
 
 **問: CUSIS 怎麼操作阿?**    
-答: 小編還沒想到好的寫法，可以先參考學校的[說明文件](https://www.cuhk.edu.hk/cusis/howto/plan-enroll.pdf)。
+答: 主要會使用到的功能已在[學校生存與生活](../xue-xiao-sheng-cun-yu-sheng-huo/3-xue-xiao-sheng-cun-yu-sheng-huo.md)中的各分頁列出。
 
 **問: 我要怎麼看我的修課建議?**    
-答:
-
-![](../.gitbook/assets/program.png)
+答: 請參閱[3.2.5 - 怎麼查詢Major Requirement](../xue-xiao-sheng-cun-yu-sheng-huo/32-xuan-8ab23f.md#3-2-5-zen-me-cha-xun-major-requirement)
 
 ## 0.0.4 - 書院與宿舍
 

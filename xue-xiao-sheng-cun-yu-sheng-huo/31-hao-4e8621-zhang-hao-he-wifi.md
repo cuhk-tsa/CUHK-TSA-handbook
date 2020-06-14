@@ -87,41 +87,38 @@
 ITSC 等服務皆有[系統維護時間](http://www.cuhk.edu.hk/itsc/sys_ava/maint.html)，請注意特定維護時間，避免作業來不及上傳。  
 另外推薦一款協助電腦登入各是中大帳號的Chrome 套件 : [Lazy CUHK](https://chrome.google.com/webstore/detail/lazy-cuhk/hhholmpehbnebpfklecipmcpkelnnabe) 但請不要在公共電腦上使用。
 
-## 3.1.5 - CUSIS 教學
+## 3.1.5 - MyCUHK教學
 
-中大學生信息系統 \(Chinese University Student Information System，讀作 "Q希斯" \) 是中大學生重要的管理平台，舉凡選課換課、獎學金領取、個人資料、交換申請、繳納學費，皆須透過此系統。進入網址:[點我](https://portal.cuhk.edu.hk/)。
+MyCUHK是中大學生重要的管理平台，舉凡選課換課、獎學金領取、個人資料、交換申請、繳納學費，皆須透過此系統。進入網址:[點我](https://portal.cuhk.edu.hk/)。其中CUSIS將會是你最常使用到的頁面。
 
 ### 功能
 
-![](http://i.imgur.com/ARHLu0w.png)
+![](../.gitbook/assets/mycuhk.png)
 
 1. Home
+   * _**CUSIS: 這是最主要你會用的**_
    * News and Events: 基本上跟每周五收到的 "Digest of CU Mass Mails for Undergraduate Students" 是一樣的。
-   * **CUSIS and MyStudy: 這是最主要你會用的**
    * Library: 和直接到圖書館網頁一樣，而且有部分服務需要另外輸入一次帳號密碼，建議不需要繞一圈直接使用[圖書館官網](http://www.lib.cuhk.edu.hk/)。
-   * Webmail: 八月後應該會自動連結office 365 的頁面。
+   * MyPage: 更改密碼、預約學校場地、校醫看診預約、查詢大部行積點。
+   * Office 365/@Link Student:自動連結office 365。
    * Useful Links: You must be kidding me.
 2. 個性化選項: 可以調整下面想看到的內容
 
-### MyStudy 功能介紹
+### CUSIS 功能介紹
 
-![](http://i.imgur.com/qrJgO1M.png)
+![&#x6B64;&#x70BA;&#x9EDE;&#x5165;CUSIS&#x5F8C;&#x7684;&#x65B9;&#x683C;&#x9078;&#x6B04;](../.gitbook/assets/cusis.png)
 
-1. 目錄選單，重要的項目會在下一節慢慢介紹
-2. 主畫面
-3. 語言
-4. 登出
+**Profile** : 個人資料填寫，學校聯繫你的方式，記得要定期更新才不會收不到重要信件。
 
-**個人資料\(Personal Information\)** : 個人資料填寫，學校聯繫你的方式，記得要定期更新才不會收不到重要信件。
+**Applications** : 各種申請表填寫\(Exemption, Transfer Credits...\)。
 
-**學習狀態 \(My Academics\)** : **公告書院** 以及學術狀態的地方。 上方的Tab: Search/Plan/Enroll 會分別帶你到左側目錄的 Class Search/My Planner/ Course Enrollment。  
-也可以查看 Academic Requirement 以便了解現在必修和選修學分進度。
+**Manage Classes** : 選課即查詢課程的地方，會在[3.2](32-xuan-8ab23f.md)有詳細介紹
 
-**選課 \(My Planner 或是 Course Enrollment\)** : 透過My Planner 或是 Course Enrollment 都可以事先安排課程，並於Search 功能底下搜尋想選擇的課程。課程列表和課程搜尋可以同時運用**Teaching Timetable by Subj/Dpt**或**Teaching Timetable by Prog**
+**Academic Records** : 可以透過CUSIS 查詢成績或是申請非正式學生成績單。
 
-**成績 \(View My Grades 和 View Unofficial Transcript\)** : 可以透過CUSIS 查詢成績或是申請非正式學生成績單。
+**Financial Account** : 查詢學費
 
-**學術導師 \(My Advisors\)** : 每個人每個學期都會指派給一位教授最為學術導師，一般而言他會找時間跟你見面，如果有任何問題也可以直接寫信給他跟他約時間討論問題。
+**Exam Timetable for UG Courses**：查詢期末考時程表
 
-條目創立於2017.06.07，最後更新於2017.06.17。
+條目創立於2017.06.07，最後更新於2020.06.14。
 

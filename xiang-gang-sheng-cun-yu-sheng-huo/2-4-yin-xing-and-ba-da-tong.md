@@ -45,7 +45,7 @@
 
 * 登入CUSIS
 * 方格選欄中選取Financial Account
-* 左方欄選取Print Online Debit Note
+* 左方欄選取Print Online Debit Note，即可找到繳費單\(內有繳費編號\)
 
 繳納的主要的方式有:
 
@@ -115,5 +115,5 @@
 
 ![](../.gitbook/assets/ccpay.png)
 
-本條創立於2017.06.07，最後更新於2017.06.11。
+本條創立於2017.06.07，最後更新於2020.06.14。
 
