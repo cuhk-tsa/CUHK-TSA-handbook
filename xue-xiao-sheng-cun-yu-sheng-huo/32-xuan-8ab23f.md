@@ -214,29 +214,27 @@ concentration \(iii\) 列表中有數門課，但是只有1 required，所以這
 
 #### 2.enroll課程
 
-同樣在CUSIS中的Manage Classes，左欄選取Class Search/Add to Cart，畫面右方就會出現term的相關資訊。選取該學期的term，在下一個出現的畫面輸入course\(課程代碼\)。
+同樣在CUSIS中的Manage Classes，左欄選取Shopping Cart/Enroll Classes，畫面右方就會出現你已加入shopping cart的課程。
+
+注意要先validate所要enroll的課程，看看是否有資格不符的課或者衝堂。通過後，等待reg course時間一到，點選enroll，就完成啦！ 祝福大家選課順利！\(CUSIS每學期選課的時候當機是很正常的.....\)
 
 ![](../.gitbook/assets/enroll.png)
+
+#### 3.查詢waitlist position/暫時的課表
+
+_Waitlist position_：若有在wait list中，同樣在CUSIS中的Manage Classes，左欄選取Enrollment Status，即可在裡面看到自己的wait list position。 
+
+_暫時的課表_：同樣在CUSIS中的Manage Classes，左欄選取Timetable Planner，即可看到自己暫時的課表。 
+
+#### 4.小提醒
 
 另外附帶一提的是，有些課在你enroll後會發生明明有available seats卻不讓你進的情況，可以在選課前事先Teaching Timetable by Subject/Department 的quota點進去看\(如果他是藍色的可以讓你點\)，可以得知該課reserve了幾個位子，是給那些資格的人，評估有沒有可能等到，再做e-add&drop的計畫。
 
 另外，CUSIS在系統升級之後，為了避免系統擁擠，對於某些熱門的課，會先把學生放在Wait list上面，等到系統高峰期過了，才慢慢把學生放進course list。 例如：某課有5個vacancy，有11個學生在選課當下選了某課，系統會把學生一路排在wait list 1~11，等到系統比較不擁擠時，再把前5位補進去，6~11位放在wait list 1~6。所以**選課時如果一時沒選進自己想上的課，但是看到還有vacancy，千萬別急著drop去改選別的**！！
 
-將想要的課程看好後，點選My Class Schedule，再點選enroll。就可將他放入shopping cart，開放選課前記得validate，看看是否有資格不符的課或者衝堂，開放選課後可以選擇enroll或者plan裡面proceed 兩者主要差別在於enroll是把shopping cart全部的東西enroll ，plan則是可以勾選，不會全部把表上的東西enroll\(當然，你可以全勾\)。
-
-![](../.gitbook/assets/ying-mu-kuai-zhao-20180325-12.29.36-am.png)
-
-輸入class number以後就會跑出下列狀況，按next以繼續進行。\(如果在瀏覽課程時，就已確定了有要選擇的特定課程，可以直接點下去那堂課藍色的連結，可以加入shopping cart。但因為大部分時候還要為所有的courses排時間，所以會一次抄很多同個course但不同時段的class number，排好時間確認好以後再放入shopping cart\)
-
-![](../.gitbook/assets/ying-mu-kuai-zhao-20180325-12.31.10-am.png)
-
-記得勾選wait list if class is full唷！不然不會進wait list的。
-
-![](../.gitbook/assets/ying-mu-kuai-zhao-20180325-12.34.40-am.png)
-
-另外，若有在wait list中，可以在enroll中的my class schedule裡面看到自己的wait list position。 接著可以在Timetable Planner看到自己暫時的時間表。 接下來就是等待時間到，然後點下enroll啦！ 祝福大家選課順利！\(CUSIS每學期選課的時候當機是很正常的.....\)
-
 如果問完學長姐建議，看過你的requirements，對於選課還是好困惑好困惑，到底哪個教授好！？給分標準如何？這些見仁見智，小編無法給予一個標準答案，但建議大家可以上[regcourse](http://regcourse.com) 或高登看看，有許多香港人會在上面給予評價。\(小編沒用過高登，他算是一個蠻大的討論區，但相對就不見得都是有關course的\)
 
-本條創立於2017.06.07，最後更新於2018.08.08。 /\#需補充更新木球，極歡迎新生投稿\(老人沒有體育課\)\#/
+
+
+本條創立於2017.06.07，最後更新於2020.06.14。 /\#需補充更新木球，極歡迎新生投稿\(老人沒有體育課\)\#/
 
