@@ -6,7 +6,7 @@
 
 大約三月初，學校會發信通知暑期課程已經可以在CUSIS上查詢，但此時公布的課程列表並非最新，每週仍會持續釋出新開課程直到選課日期之前。
 
-想要查詢暑期課程的開課內容，請在CUSIS裡的"Teaching Timetable by Subject/ Department"，將Term改為Summer Session即可。
+想要查詢暑期課程的開課內容，請在CUSIS方格選欄中的Manage Classes，左方列選取"Teaching Timetable by Subject/ Department"，將Term改為Summer Session即可。
 
 ![](../.gitbook/assets/screen-shot-2018-03-25-at-3.43.39-am.png)
 
