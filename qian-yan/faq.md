@@ -32,5 +32,5 @@
 
 活動、文化、莊、院慶等等，也有很大差別，通常是能夠跟本地生混熟的好機會。
 
-想針對各書院了解多一點嗎？快點進[書院完全手冊](https://cuhktsa.gitbooks.io/cuhk-tsa-college/content/)看看！
+想針對各書院了解多一點嗎？快點進[書院完全手冊](https://cuhktsa.gitbook.io/cuhk-tsa-college/)看看！
 
