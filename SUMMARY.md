@@ -30,6 +30,7 @@
 * [\|\_\_ 2.6 - 生活](xiang-gang-sheng-cun-yu-sheng-huo/25-sheng-huo.md)
 * [\|\_\_ 2.7 - 找房?!](xiang-gang-sheng-cun-yu-sheng-huo/2-5-zhao-623f3f21.md)
 * [\|\_\_ 2.8 - 吃喝玩樂](xiang-gang-sheng-cun-yu-sheng-huo/2-6-chi-he-wan-le.md)
+* [\|\_2.9 改姓完整攻略](xiang-gang-sheng-cun-yu-sheng-huo/2.9-gai-xing-wan-zheng-gong-lve.md)
 
 ## 學校生存與生活
 
