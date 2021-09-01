@@ -135,7 +135,7 @@ COMER Hair Salon
 
 此類倉儲服務大致分為租用箱子（不同大小不同費用）、以件數計算（可能有尺寸規定）、直接租用一間小型倉庫等等。
 
-官網連結：[寶易存](https://www.boxful.com/zh/?isRedirect=1)、[香港儲物室](http://www.hongkongstorage.com/)...etc（自行google迷你倉亦可）
+官網連結：[蘋果迷你倉](https://www.applestorage.com.hk)、[寶易存](https://www.boxful.com/zh/?isRedirect=1)、[U SPACE流動迷你倉](https://www.uspace.com.hk)、[U SPACE流動迷你箱](https://www.uspace.com.hk/mini-box-service)、[香港儲物室](http://www.hongkongstorage.com/)...etc（自行google迷你倉亦可）
 
 不同業者可能提供新使用者不同程度的優惠，一般而言租用箱子時，上門取物及送貨上門的等待時間是15分鐘，你可以選擇在15分鐘內整理好，或者是選擇預約下次取箱時間。
 
